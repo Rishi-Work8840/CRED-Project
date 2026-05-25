@@ -794,57 +794,47 @@ if __name__ == "__main__":
     print("\n" + "=" * 70)
 
     # ─────────────────────────────────────────────────────────────
-    # SECTION 11 — EXCEL OUTPUT FILES
+    # SECTION 11 — EXCEL OUTPUT (Single File, Multiple Sheets)
     # ─────────────────────────────────────────────────────────────
 
     import os
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "outputs")
     os.makedirs(output_dir, exist_ok=True)
 
-    # ── File 1: Technical View ──
-    tech_file = os.path.join(output_dir, "CRED_Output_Technical.xlsx")
-    tech.to_excel(tech_file, index=False, sheet_name="Technical View")
-    print(f"\n[EXPORT] Technical view saved: {tech_file}")
+    output_file = os.path.join(output_dir, "CRED_Output.xlsx")
+    with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
 
-    # ── File 2: Executive View ──
-    exec_file = os.path.join(output_dir, "CRED_Output_Executive.xlsx")
-    exc.to_excel(exec_file, index=False, sheet_name="Executive View")
-    print(f"[EXPORT] Executive view saved: {exec_file}")
+        # ── Sheet 1: Technical View ──
+        tech.to_excel(writer, index=False, sheet_name="Technical View")
 
-    # ── File 3: Summary ──
-    summary_file = os.path.join(output_dir, "CRED_Output_Summary.xlsx")
-    with pd.ExcelWriter(summary_file, engine="openpyxl") as writer:
-        # Summary stats sheet
-        df_summary = pd.DataFrame([summ])
-        df_summary.to_excel(writer, index=False, sheet_name="Pipeline Summary")
+        # ── Sheet 2: Executive View ──
+        exc.to_excel(writer, index=False, sheet_name="Executive View")
 
-        # CRED distribution by domain
+        # ── Sheet 3: Pipeline Summary ──
+        pd.DataFrame([summ]).to_excel(writer, index=False, sheet_name="Pipeline Summary")
+
+        # ── Sheet 4: By Domain ──
         domain_pivot = tech.groupby(["business_domain", "cred_label"]).size().unstack(fill_value=0).reset_index()
         domain_pivot.to_excel(writer, index=False, sheet_name="By Domain")
 
-        # CRED distribution by platform
+        # ── Sheet 5: By Platform ──
         platform_pivot = tech.groupby(["source_platform", "cred_label"]).size().unstack(fill_value=0).reset_index()
         platform_pivot.to_excel(writer, index=False, sheet_name="By Platform")
 
-        # CRED distribution by owner
+        # ── Sheet 6: By Owner ──
         owner_pivot = tech.groupby(["owner_email", "cred_label"]).size().unstack(fill_value=0).reset_index()
         owner_pivot.to_excel(writer, index=False, sheet_name="By Owner")
 
-    print(f"[EXPORT] Summary saved: {summary_file}")
-
-    # ── File 4: LLM Comparison Metrics ──
-    metrics_file = os.path.join(output_dir, "CRED_Output_LLM_Metrics.xlsx")
-    with pd.ExcelWriter(metrics_file, engine="openpyxl") as writer:
-        # Overall accuracy sheet
+        # ── Sheet 7: LLM Overall Accuracy ──
         df_accuracy = pd.DataFrame([{
             "Total Reports": total,
             "Correct": int(correct),
             "Mismatches": int(total - correct),
             "Accuracy (%)": round(accuracy, 1)
         }])
-        df_accuracy.to_excel(writer, index=False, sheet_name="Overall Accuracy")
+        df_accuracy.to_excel(writer, index=False, sheet_name="LLM Accuracy")
 
-        # Per-category precision/recall/F1
+        # ── Sheet 8: LLM Category Metrics ──
         cat_metrics = []
         for cat in categories:
             tp = ((df_compare["cred_label"] == cat) & (df_compare["llm_label"] == cat)).sum()
@@ -861,9 +851,9 @@ if __name__ == "__main__":
                 "F1 Score (%)": round(f1, 1),
                 "Support (LLM count)": int(support)
             })
-        pd.DataFrame(cat_metrics).to_excel(writer, index=False, sheet_name="Category Metrics")
+        pd.DataFrame(cat_metrics).to_excel(writer, index=False, sheet_name="LLM Category Metrics")
 
-        # Confusion matrix
+        # ── Sheet 9: Confusion Matrix ──
         conf_data = []
         for code_cat in categories:
             row_data = {"Code Prediction": code_cat}
@@ -873,12 +863,12 @@ if __name__ == "__main__":
             conf_data.append(row_data)
         pd.DataFrame(conf_data).to_excel(writer, index=False, sheet_name="Confusion Matrix")
 
-        # Misclassified reports
+        # ── Sheet 10: Misclassified Reports ──
         mismatches_export = df_compare[~df_compare["match"]][["report_id", "cred_label", "llm_label"]].copy()
         mismatches_export.columns = ["Report ID", "Code Prediction", "LLM Expected"]
         mismatches_export.to_excel(writer, index=False, sheet_name="Misclassified Reports")
 
-        # Migration impact comparison
+        # ── Sheet 11: Migration Impact ──
         df_impact = pd.DataFrame([{
             "Source": "Code",
             "Eliminate": int(code_elim),
@@ -892,7 +882,7 @@ if __name__ == "__main__":
         }])
         df_impact.to_excel(writer, index=False, sheet_name="Migration Impact")
 
-        # Agreement by group
+        # ── Sheet 12: Group Agreement ──
         group_data = []
         for name, start, end in groups:
             group_ids = [f"RPT{i:03d}" for i in range(start, end)]
@@ -905,5 +895,5 @@ if __name__ == "__main__":
             })
         pd.DataFrame(group_data).to_excel(writer, index=False, sheet_name="Group Agreement")
 
-    print(f"[EXPORT] LLM metrics saved: {metrics_file}")
-    print(f"\n[DONE] All 4 Excel files exported successfully.")
+    print(f"\n[EXPORT] All outputs saved to: {output_file}")
+    print(f"[DONE] Single Excel file with 12 sheets exported successfully.")

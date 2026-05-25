@@ -798,7 +798,8 @@ if __name__ == "__main__":
     # ─────────────────────────────────────────────────────────────
 
     import os
-    output_dir = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "outputs")
+    os.makedirs(output_dir, exist_ok=True)
 
     # ── File 1: Technical View ──
     tech_file = os.path.join(output_dir, "CRED_Output_Technical.xlsx")

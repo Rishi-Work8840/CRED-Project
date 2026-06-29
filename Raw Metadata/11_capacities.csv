@@ -1,0 +1,4 @@
+capacity_id,capacity_name,sku,region,admin,v_cores,state,workspaces_assigned,avg_cpu_pct,peak_cpu_pct,avg_memory_gb,peak_memory_gb,overload_events_30d,cost_usd_monthly
+CAP-001,MA-Fabric-Prod,P1,East US,it.admin@michiganauto.com,8,Active,7,38,74,18,42,2,4995
+CAP-002,MA-Fabric-Dev,A1,East US,dev.team@michiganauto.com,1,Active,2,12,34,4,9,0,735
+CAP-003,Shared Capacity,Shared,East US,,0,Active,3,0,0,0,0,0,0

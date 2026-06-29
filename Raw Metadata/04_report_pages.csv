@@ -1,0 +1,106 @@
+page_id,report_id,report_name,workspace_id,page_name,page_order,visual_count,has_filters,has_slicers,has_drillthrough,has_tooltips,page_views_last_30d
+PG-0001,RPT-001,FAR Pivot Report,WS-002,Overview,1,5,True,True,False,False,296
+PG-0002,RPT-001,FAR Pivot Report,WS-002,Cost Centre Detail,2,3,True,False,False,False,596
+PG-0003,RPT-001,FAR Pivot Report,WS-002,Variance Analysis,3,9,True,True,False,False,1029
+PG-0004,RPT-001,FAR Pivot Report,WS-002,GL Drill-Through,4,10,True,True,True,True,665
+PG-0005,RPT-001,FAR Pivot Report,WS-002,YTD Summary,5,6,True,True,False,False,1207
+PG-0006,RPT-001,FAR Pivot Report,WS-002,Prior Year Comp,6,2,False,True,True,True,363
+PG-0007,RPT-002,8:15 KPI Dashboard,WS-003,KPI Overview,1,9,True,True,True,False,897
+PG-0008,RPT-002,8:15 KPI Dashboard,WS-003,Machine Status,2,9,False,True,False,True,219
+PG-0009,RPT-002,8:15 KPI Dashboard,WS-003,Shift Summary,3,4,True,True,True,False,1131
+PG-0010,RPT-002,8:15 KPI Dashboard,WS-003,Downtime Analysis,4,2,True,True,True,False,832
+PG-0011,RPT-003,Maintenance Work Orders,WS-004,Work Order Summary,1,10,False,True,False,True,116
+PG-0012,RPT-003,Maintenance Work Orders,WS-004,Open Orders,2,5,True,True,False,True,110
+PG-0013,RPT-003,Maintenance Work Orders,WS-004,Completed Orders,3,5,True,True,True,False,997
+PG-0014,RPT-003,Maintenance Work Orders,WS-004,Cost Analysis,4,3,True,True,False,False,641
+PG-0015,RPT-003,Maintenance Work Orders,WS-004,Schedule View,5,10,True,True,True,False,237
+PG-0016,RPT-004,Machine Downtime Analysis,WS-001,Downtime Overview,1,9,False,True,True,False,602
+PG-0017,RPT-004,Machine Downtime Analysis,WS-001,Pareto Analysis,2,10,True,True,False,True,940
+PG-0018,RPT-004,Machine Downtime Analysis,WS-001,Machine Detail,3,10,True,True,False,False,284
+PG-0019,RPT-005,Executive KPI Summary,WS-007,Executive Overview,1,3,True,False,False,False,1044
+PG-0020,RPT-005,Executive KPI Summary,WS-007,Financial Summary,2,6,False,True,True,False,1356
+PG-0021,RPT-006,Planned Maintenance Schedule,WS-004,Schedule Overview,1,9,False,True,False,True,1117
+PG-0022,RPT-006,Planned Maintenance Schedule,WS-004,Plant View,2,8,True,True,True,False,1176
+PG-0023,RPT-006,Planned Maintenance Schedule,WS-004,Asset Detail,3,8,True,False,True,False,1449
+PG-0024,RPT-006,Planned Maintenance Schedule,WS-004,Compliance Status,4,8,True,True,False,False,1019
+PG-0025,RPT-007,OEE Trend Report,WS-003,OEE Trend,1,2,True,False,True,True,906
+PG-0026,RPT-007,OEE Trend Report,WS-003,Machine Breakdown,2,3,True,True,False,True,1345
+PG-0027,RPT-007,OEE Trend Report,WS-003,Shift Comparison,3,4,True,False,True,False,819
+PG-0028,RPT-008,Cost Centre P&L,WS-006,P&L Summary,1,3,False,False,False,True,653
+PG-0029,RPT-008,Cost Centre P&L,WS-006,Cost Centre View,2,9,False,True,True,False,593
+PG-0030,RPT-008,Cost Centre P&L,WS-006,Variance,3,5,True,True,True,False,210
+PG-0031,RPT-008,Cost Centre P&L,WS-006,Budget vs Actual,4,9,True,True,True,True,119
+PG-0032,RPT-008,Cost Centre P&L,WS-006,GL Detail,5,6,True,True,True,True,1401
+PG-0033,RPT-009,Headcount by Plant,WS-006,Page 1,1,4,True,True,False,False,498
+PG-0034,RPT-009,Headcount by Plant,WS-006,Page 2,2,9,False,True,False,True,527
+PG-0035,RPT-009,Headcount by Plant,WS-006,Page 3,3,2,False,True,True,False,156
+PG-0036,RPT-010,Predictive Failure Scores,WS-005,Page 1,1,9,False,False,True,False,1418
+PG-0037,RPT-010,Predictive Failure Scores,WS-005,Page 2,2,6,True,True,False,False,223
+PG-0038,RPT-010,Predictive Failure Scores,WS-005,Page 3,3,5,True,True,True,False,49
+PG-0039,RPT-010,Predictive Failure Scores,WS-005,Page 4,4,8,True,True,False,False,105
+PG-0040,RPT-011,Supplier Quality Report,WS-013,Page 1,1,9,False,False,False,True,726
+PG-0041,RPT-011,Supplier Quality Report,WS-013,Page 2,2,5,True,True,False,False,1355
+PG-0042,RPT-011,Supplier Quality Report,WS-013,Page 3,3,4,True,False,False,True,907
+PG-0043,RPT-011,Supplier Quality Report,WS-013,Page 4,4,2,True,False,True,True,855
+PG-0044,RPT-012,Production Line Throughput,WS-001,Page 1,1,4,True,False,False,True,1032
+PG-0045,RPT-012,Production Line Throughput,WS-001,Page 2,2,6,False,True,False,True,609
+PG-0046,RPT-012,Production Line Throughput,WS-001,Page 3,3,7,False,True,True,False,467
+PG-0047,RPT-013,FAR Monthly Variance,WS-002,Page 1,1,8,False,False,True,False,33
+PG-0048,RPT-013,FAR Monthly Variance,WS-002,Page 2,2,6,True,True,False,False,1202
+PG-0049,RPT-013,FAR Monthly Variance,WS-002,Page 3,3,8,False,False,True,True,56
+PG-0050,RPT-013,FAR Monthly Variance,WS-002,Page 4,4,10,True,True,False,False,955
+PG-0051,RPT-014,MTTR MTBF Analysis,WS-004,Page 1,1,6,True,True,True,True,1013
+PG-0052,RPT-014,MTTR MTBF Analysis,WS-004,Page 2,2,3,True,False,True,True,1378
+PG-0053,RPT-014,MTTR MTBF Analysis,WS-004,Page 3,3,10,True,False,True,True,207
+PG-0054,RPT-015,Energy Consumption KPIs,WS-001,Page 1,1,9,True,False,True,False,0
+PG-0055,RPT-015,Energy Consumption KPIs,WS-001,Page 2,2,5,True,False,False,True,0
+PG-0056,RPT-015,Energy Consumption KPIs,WS-001,Page 3,3,7,True,False,True,True,0
+PG-0057,RPT-016,Scrap & Rework Report,WS-001,Page 1,1,5,False,False,False,True,0
+PG-0058,RPT-016,Scrap & Rework Report,WS-001,Page 2,2,5,True,True,True,False,0
+PG-0059,RPT-016,Scrap & Rework Report,WS-001,Page 3,3,5,False,False,True,False,0
+PG-0060,RPT-016,Scrap & Rework Report,WS-001,Page 4,4,10,True,True,False,True,0
+PG-0061,RPT-017,Asset Register,WS-004,Page 1,1,4,True,True,True,False,271
+PG-0062,RPT-017,Asset Register,WS-004,Page 2,2,10,True,True,False,True,35
+PG-0063,RPT-018,Shift Handover Summary,WS-003,Page 1,1,7,True,True,True,True,112
+PG-0064,RPT-018,Shift Handover Summary,WS-003,Page 2,2,4,True,True,False,True,746
+PG-0065,RPT-019,Safety Incidents Report,WS-001,Page 1,1,10,True,True,True,False,1494
+PG-0066,RPT-019,Safety Incidents Report,WS-001,Page 2,2,10,True,True,True,False,827
+PG-0067,RPT-019,Safety Incidents Report,WS-001,Page 3,3,8,True,True,False,True,170
+PG-0068,RPT-020,Inventory & Parts Tracker,WS-004,Page 1,1,7,True,True,True,False,1128
+PG-0069,RPT-020,Inventory & Parts Tracker,WS-004,Page 2,2,7,True,True,True,False,886
+PG-0070,RPT-020,Inventory & Parts Tracker,WS-004,Page 3,3,3,True,True,False,False,1134
+PG-0071,RPT-021,Production Efficiency,WS-001,Page 1,1,5,True,False,False,False,821
+PG-0072,RPT-021,Production Efficiency,WS-001,Page 2,2,8,True,True,True,True,317
+PG-0073,RPT-021,Production Efficiency,WS-001,Page 3,3,9,True,False,True,True,768
+PG-0074,RPT-021,Production Efficiency,WS-001,Page 4,4,4,True,True,False,True,255
+PG-0075,RPT-022,Finance Dashboard,WS-006,Page 1,1,8,True,True,False,False,1481
+PG-0076,RPT-022,Finance Dashboard,WS-006,Page 2,2,2,False,True,True,False,440
+PG-0077,RPT-022,Finance Dashboard,WS-006,Page 3,3,4,True,True,True,False,757
+PG-0078,RPT-022,Finance Dashboard,WS-006,Page 4,4,3,True,True,False,False,1278
+PG-0079,RPT-022,Finance Dashboard,WS-006,Page 5,5,10,True,False,False,True,374
+PG-0080,RPT-023,Supply Chain KPIs,WS-013,Page 1,1,6,True,True,True,True,298
+PG-0081,RPT-023,Supply Chain KPIs,WS-013,Page 2,2,8,True,False,False,True,1091
+PG-0082,RPT-023,Supply Chain KPIs,WS-013,Page 3,3,5,True,True,True,True,669
+PG-0083,RPT-023,Supply Chain KPIs,WS-013,Page 4,4,3,False,True,False,True,172
+PG-0084,RPT-024,Shift Performance,WS-001,Page 1,1,6,True,True,False,True,446
+PG-0085,RPT-024,Shift Performance,WS-001,Page 2,2,10,True,True,True,False,1001
+PG-0086,RPT-024,Shift Performance,WS-001,Page 3,3,10,True,True,True,False,20
+PG-0087,RPT-025,Customer Quality Scorecard,WS-013,Page 1,1,5,True,True,True,True,676
+PG-0088,RPT-025,Customer Quality Scorecard,WS-013,Page 2,2,3,True,False,True,True,1446
+PG-0089,RPT-025,Customer Quality Scorecard,WS-013,Page 3,3,5,True,False,False,True,91
+PG-0090,RPT-026,HR Attrition Analysis,WS-014,Page 1,1,8,True,False,False,False,1179
+PG-0091,RPT-026,HR Attrition Analysis,WS-014,Page 2,2,8,True,True,True,True,670
+PG-0092,RPT-026,HR Attrition Analysis,WS-014,Page 3,3,4,False,True,False,False,185
+PG-0093,RPT-026,HR Attrition Analysis,WS-014,Page 4,4,8,False,True,False,False,815
+PG-0094,RPT-027,Dev Test Report 1,WS-008,Page 1,1,6,True,True,False,True,0
+PG-0095,RPT-027,Dev Test Report 1,WS-008,Page 2,2,3,True,True,False,True,0
+PG-0096,RPT-028,Dev Test Report 2,WS-008,Page 1,1,4,True,True,True,False,0
+PG-0097,RPT-028,Dev Test Report 2,WS-008,Page 2,2,3,True,False,False,False,0
+PG-0098,RPT-028,Dev Test Report 2,WS-008,Page 3,3,9,True,False,False,False,0
+PG-0099,RPT-029,UAT FAR Validation,WS-009,Page 1,1,7,False,True,True,True,0
+PG-0100,RPT-029,UAT FAR Validation,WS-009,Page 2,2,9,True,False,False,True,0
+PG-0101,RPT-029,UAT FAR Validation,WS-009,Page 3,3,3,True,True,True,False,0
+PG-0102,RPT-029,UAT FAR Validation,WS-009,Page 4,4,3,True,False,True,False,0
+PG-0103,RPT-030,UAT 8:15 Validation,WS-009,Page 1,1,8,True,True,False,False,0
+PG-0104,RPT-030,UAT 8:15 Validation,WS-009,Page 2,2,9,False,True,True,False,0
+PG-0105,RPT-030,UAT 8:15 Validation,WS-009,Page 3,3,10,True,True,True,False,0

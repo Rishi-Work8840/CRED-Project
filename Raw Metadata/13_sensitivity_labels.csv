@@ -1,0 +1,51 @@
+label_id,artifact_type,artifact_id,artifact_name,workspace_id,workspace_name,sensitivity_label,label_applied_by,label_applied_date,is_inherited,protection_enabled
+LBL-RPT-001,Report,RPT-001,FAR Pivot Report,WS-002,Michigan Auto - FAR Reporting,Highly Confidential,ds.lead@michiganauto.com,2025-12-30,True,True
+LBL-RPT-002,Report,RPT-002,8:15 KPI Dashboard,WS-003,Michigan Auto - 8:15 KPIs,Internal,finance@michiganauto.com,2026-02-26,True,False
+LBL-RPT-003,Report,RPT-003,Maintenance Work Orders,WS-004,Michigan Auto - Maintenance,Internal,ds.lead@michiganauto.com,2026-01-13,True,False
+LBL-RPT-004,Report,RPT-004,Machine Downtime Analysis,WS-001,Michigan Auto - Production,Internal,maint.mgr@michiganauto.com,2026-03-13,False,False
+LBL-RPT-005,Report,RPT-005,Executive KPI Summary,WS-007,Michigan Auto - Executive,Highly Confidential,maint.mgr@michiganauto.com,2026-02-01,False,True
+LBL-RPT-006,Report,RPT-006,Planned Maintenance Schedule,WS-004,Michigan Auto - Maintenance,Internal,ops.lead@michiganauto.com,2026-05-18,False,False
+LBL-RPT-007,Report,RPT-007,OEE Trend Report,WS-003,Michigan Auto - 8:15 KPIs,Internal,ops.lead@michiganauto.com,2026-05-10,False,False
+LBL-RPT-008,Report,RPT-008,Cost Centre P&L,WS-006,Michigan Auto - Finance,Highly Confidential,ops.lead@michiganauto.com,2025-11-27,False,True
+LBL-RPT-009,Report,RPT-009,Headcount by Plant,WS-006,Michigan Auto - Finance,Confidential,exec.admin@michiganauto.com,2026-03-23,False,False
+LBL-RPT-010,Report,RPT-010,Predictive Failure Scores,WS-005,Michigan Auto - Data Science,Confidential,exec.admin@michiganauto.com,2025-12-07,False,False
+LBL-RPT-011,Report,RPT-011,Supplier Quality Report,WS-013,Michigan Auto - Supply Chain,Internal,maint.mgr@michiganauto.com,2025-12-15,False,False
+LBL-RPT-012,Report,RPT-012,Production Line Throughput,WS-001,Michigan Auto - Production,Internal,exec.admin@michiganauto.com,2026-03-10,True,False
+LBL-RPT-013,Report,RPT-013,FAR Monthly Variance,WS-002,Michigan Auto - FAR Reporting,Confidential,john.smith@michiganauto.com,2026-01-16,True,False
+LBL-RPT-014,Report,RPT-014,MTTR MTBF Analysis,WS-004,Michigan Auto - Maintenance,Internal,ds.lead@michiganauto.com,2026-02-06,True,False
+LBL-RPT-015,Report,RPT-015,Energy Consumption KPIs,WS-001,Michigan Auto - Production,Internal,ops.lead@michiganauto.com,2026-01-24,False,False
+LBL-RPT-016,Report,RPT-016,Scrap & Rework Report,WS-001,Michigan Auto - Production,Internal,ds.lead@michiganauto.com,2026-02-21,True,False
+LBL-RPT-017,Report,RPT-017,Asset Register,WS-004,Michigan Auto - Maintenance,Internal,maint.mgr@michiganauto.com,2026-03-15,True,False
+LBL-RPT-018,Report,RPT-018,Shift Handover Summary,WS-003,Michigan Auto - 8:15 KPIs,Internal,finance@michiganauto.com,2025-12-04,False,False
+LBL-RPT-019,Report,RPT-019,Safety Incidents Report,WS-001,Michigan Auto - Production,Confidential,ops.lead@michiganauto.com,2025-12-06,False,False
+LBL-RPT-020,Report,RPT-020,Inventory & Parts Tracker,WS-004,Michigan Auto - Maintenance,Internal,finance@michiganauto.com,2026-05-19,True,False
+LBL-RPT-021,Report,RPT-021,Production Efficiency,WS-001,Michigan Auto - Production,Internal,ops.lead@michiganauto.com,2026-01-20,False,False
+LBL-RPT-022,Report,RPT-022,Finance Dashboard,WS-006,Michigan Auto - Finance,Highly Confidential,ops.lead@michiganauto.com,2026-04-29,True,True
+LBL-RPT-023,Report,RPT-023,Supply Chain KPIs,WS-013,Michigan Auto - Supply Chain,Internal,john.smith@michiganauto.com,2026-01-10,True,False
+LBL-RPT-024,Report,RPT-024,Shift Performance,WS-001,Michigan Auto - Production,Internal,john.smith@michiganauto.com,2026-02-11,False,False
+LBL-RPT-025,Report,RPT-025,Customer Quality Scorecard,WS-013,Michigan Auto - Supply Chain,Confidential,ops.lead@michiganauto.com,2025-12-10,False,False
+LBL-RPT-026,Report,RPT-026,HR Attrition Analysis,WS-014,Michigan Auto - HR Analytics,Confidential,finance@michiganauto.com,2026-01-14,True,False
+LBL-RPT-027,Report,RPT-027,Dev Test Report 1,WS-008,Michigan Auto - Dev,Internal,finance@michiganauto.com,2026-02-24,True,False
+LBL-RPT-028,Report,RPT-028,Dev Test Report 2,WS-008,Michigan Auto - Dev,Internal,finance@michiganauto.com,2026-03-26,True,False
+LBL-RPT-029,Report,RPT-029,UAT FAR Validation,WS-009,Michigan Auto - UAT,Confidential,exec.admin@michiganauto.com,2026-03-24,False,False
+LBL-RPT-030,Report,RPT-030,UAT 8:15 Validation,WS-009,Michigan Auto - UAT,Internal,maint.mgr@michiganauto.com,2026-02-18,True,False
+LBL-DS-001,Dataset,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Internal,maint.mgr@michiganauto.com,2025-12-20,False,False
+LBL-DS-002,Dataset,DS-002,8:15 KPI Semantic Model,WS-003,Michigan Auto - 8:15 KPIs,Internal,john.smith@michiganauto.com,2026-04-06,True,False
+LBL-DS-003,Dataset,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Confidential,ops.lead@michiganauto.com,2026-02-05,True,False
+LBL-DS-004,Dataset,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Internal,finance@michiganauto.com,2026-02-08,False,False
+LBL-DS-005,Dataset,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Internal,exec.admin@michiganauto.com,2026-03-19,False,False
+LBL-DS-006,Dataset,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Confidential,john.smith@michiganauto.com,2026-03-23,False,False
+LBL-DS-007,Dataset,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Internal,maint.mgr@michiganauto.com,2026-05-22,True,False
+LBL-DS-008,Dataset,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Internal,john.smith@michiganauto.com,2026-05-04,False,False
+LBL-DS-009,Dataset,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Internal,exec.admin@michiganauto.com,2026-03-05,False,False
+LBL-DS-010,Dataset,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Confidential,john.smith@michiganauto.com,2026-04-20,False,False
+LBL-DS-011,Dataset,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Internal,exec.admin@michiganauto.com,2026-01-08,False,False
+LBL-DS-012,Dataset,DS-012,Production Planning,WS-001,Michigan Auto - Production,Confidential,exec.admin@michiganauto.com,2026-02-01,False,False
+LBL-DS-013,Dataset,DS-013,Dev - FAR Test,WS-008,Michigan Auto - Dev,Confidential,ds.lead@michiganauto.com,2025-12-21,False,False
+LBL-DS-014,Dataset,DS-014,Dev - 8:15 Test,WS-008,Michigan Auto - Dev,Highly Confidential,john.smith@michiganauto.com,2026-05-05,False,False
+LBL-DS-015,Dataset,DS-015,Dev - Maintenance Test,WS-008,Michigan Auto - Dev,Highly Confidential,john.smith@michiganauto.com,2026-01-17,False,False
+LBL-DS-016,Dataset,DS-016,UAT - FAR,WS-009,Michigan Auto - UAT,Confidential,exec.admin@michiganauto.com,2026-03-08,False,False
+LBL-DS-017,Dataset,DS-017,UAT - 8:15,WS-009,Michigan Auto - UAT,Highly Confidential,maint.mgr@michiganauto.com,2026-05-04,False,False
+LBL-DS-018,Dataset,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Confidential,john.smith@michiganauto.com,2025-12-21,False,False
+LBL-DS-019,Dataset,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Confidential,ops.lead@michiganauto.com,2026-01-28,True,False
+LBL-DS-020,Dataset,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Internal,john.smith@michiganauto.com,2026-02-21,False,False

@@ -1,0 +1,961 @@
+refresh_id,dataset_id,dataset_name,workspace_id,workspace_name,refresh_type,triggered_by,start_datetime,end_datetime,duration_minutes,status,rows_processed,error_code,error_message,refresh_mode
+REF-00001,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:37:34,4,Failed,0,AUTH_FAIL,Schema change detected in source,Full
+REF-00002,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,Schedule,2026-05-24 16:33:34,2026-05-24 16:48:34,15,Success,1975892,,,Full
+REF-00003,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-23 15:33:34,2026-05-23 15:37:34,4,Success,514713,,,Full
+REF-00004,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-22 13:33:34,2026-05-22 13:39:34,6,Success,523244,,,Full
+REF-00005,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,API,2026-05-21 14:33:34,2026-05-21 15:25:34,52,Success,128371,,,Full
+REF-00006,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-20 12:33:34,2026-05-20 13:14:34,41,Success,1630130,,,Incremental
+REF-00007,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-19 13:33:34,2026-05-19 14:09:34,36,Success,473560,,,Incremental
+REF-00008,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-18 11:33:34,2026-05-18 11:47:34,14,Success,1322802,,,Full
+REF-00009,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-17 11:33:34,2026-05-17 12:18:34,45,Success,809339,,,Incremental
+REF-00010,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-16 12:33:34,2026-05-16 12:47:34,14,Success,1592125,,,Full
+REF-00011,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-15 13:33:34,2026-05-15 13:39:34,6,Success,1189408,,,Incremental
+REF-00012,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,User,2026-05-14 12:33:34,2026-05-14 12:49:34,16,Success,702611,,,Incremental
+REF-00013,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-13 14:33:34,2026-05-13 14:48:34,15,Success,118080,,,Incremental
+REF-00014,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-12 16:33:34,2026-05-12 17:24:34,51,Success,1242252,,,Incremental
+REF-00015,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,API,2026-05-11 16:33:34,2026-05-11 16:36:34,3,Success,454193,,,Full
+REF-00016,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-10 15:33:34,2026-05-10 16:20:34,47,Success,1277521,,,Full
+REF-00017,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-09 15:33:34,2026-05-09 16:00:34,27,Success,987798,,,Full
+REF-00018,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-08 13:33:34,2026-05-08 14:05:34,32,Success,216796,,,Incremental
+REF-00019,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-07 13:33:34,2026-05-07 13:59:34,26,Success,666245,,,Full
+REF-00020,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-06 14:33:34,2026-05-06 15:13:34,40,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00021,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-05 15:33:34,2026-05-05 16:17:34,44,Success,1988588,,,Incremental
+REF-00022,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-04 14:33:34,2026-05-04 15:22:34,49,Success,1677184,,,Incremental
+REF-00023,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,OnDemand,Schedule,2026-05-03 15:33:34,2026-05-03 16:10:34,37,Success,1355971,,,Incremental
+REF-00024,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-02 17:33:34,2026-05-02 18:18:34,45,Success,111742,,,Incremental
+REF-00025,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-05-01 18:33:34,2026-05-01 18:36:34,3,Success,468688,,,Incremental
+REF-00026,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-30 16:33:34,2026-04-30 17:18:34,45,Success,1033104,,,Incremental
+REF-00027,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,OnDemand,Schedule,2026-04-29 18:33:34,2026-04-29 18:53:34,20,Success,1133524,,,Incremental
+REF-00028,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,Schedule,2026-04-28 17:33:34,2026-04-28 17:47:34,14,Success,234429,,,Full
+REF-00029,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-27 15:33:34,2026-04-27 16:28:34,55,Success,753316,,,Incremental
+REF-00030,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-26 14:33:34,2026-04-26 14:51:34,18,Success,1472210,,,Incremental
+REF-00031,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-25 16:33:34,2026-04-25 16:37:34,4,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00032,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,OnDemand,API,2026-04-24 15:33:34,2026-04-24 15:57:34,24,Success,1196687,,,Incremental
+REF-00033,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-23 17:33:34,2026-04-23 18:20:34,47,Success,1871336,,,Incremental
+REF-00034,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,User,2026-04-22 17:33:34,2026-04-22 18:12:34,39,Success,1390155,,,Incremental
+REF-00035,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-21 18:33:34,2026-04-21 19:24:34,51,Success,1731113,,,Full
+REF-00036,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-20 19:33:34,2026-04-20 20:12:34,39,Success,1760389,,,Incremental
+REF-00037,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,OnDemand,Schedule,2026-04-19 18:33:34,2026-04-19 18:44:34,11,Success,1667794,,,Incremental
+REF-00038,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-18 18:33:34,2026-04-18 18:35:34,2,Failed,0,SCHEMA_CHANGE,Capacity limit exceeded,Incremental
+REF-00039,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-17 18:33:34,2026-04-17 18:37:34,4,Failed,0,CAPACITY_LIMIT,Authentication failed for data source,Incremental
+REF-00040,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-16 17:33:34,2026-04-16 17:54:34,21,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00041,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-15 18:33:34,2026-04-15 18:56:34,23,Success,766443,,,Incremental
+REF-00042,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-14 18:33:34,2026-04-14 18:42:34,9,Success,287887,,,Incremental
+REF-00043,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-13 16:33:34,2026-04-13 16:37:34,4,Success,197944,,,Incremental
+REF-00044,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-12 16:33:34,2026-04-12 16:36:34,3,Success,622048,,,Incremental
+REF-00045,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-11 14:33:34,2026-04-11 14:51:34,18,Success,1209487,,,Full
+REF-00046,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-10 14:33:34,2026-04-10 15:07:34,34,Success,316047,,,Incremental
+REF-00047,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,Schedule,2026-04-09 13:33:34,2026-04-09 13:59:34,26,Success,537852,,,Incremental
+REF-00048,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,User,2026-04-08 11:33:34,2026-04-08 11:42:34,9,Success,294142,,,Incremental
+REF-00049,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-07 09:33:34,2026-04-07 09:57:34,24,Success,933214,,,Incremental
+REF-00050,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-06 07:33:34,2026-04-06 07:35:34,2,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00051,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-05 06:33:34,2026-04-05 07:26:34,53,Success,518400,,,Incremental
+REF-00052,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-04 06:33:34,2026-04-04 06:48:34,15,Warning,0,AUTH_FAIL,Authentication failed for data source,Incremental
+REF-00053,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-03 05:33:34,2026-04-03 05:49:34,16,Success,929506,,,Full
+REF-00054,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-04-02 04:33:34,2026-04-02 04:44:34,11,Success,1338201,,,Full
+REF-00055,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,OnDemand,Schedule,2026-04-01 03:33:34,2026-04-01 03:40:34,7,Success,951761,,,Incremental
+REF-00056,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-31 01:33:34,2026-03-31 02:20:34,47,Success,887240,,,Incremental
+REF-00057,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-29 23:33:34,2026-03-29 23:41:34,8,Success,239364,,,Incremental
+REF-00058,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,API,2026-03-28 21:33:34,2026-03-28 22:19:34,46,Warning,0,TIMEOUT,Schema change detected in source,Full
+REF-00059,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-27 23:33:34,2026-03-28 00:08:34,35,Success,1576264,,,Incremental
+REF-00060,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-26 22:33:34,2026-03-26 23:05:34,32,Success,1629719,,,Full
+REF-00061,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,Schedule,2026-03-26 00:33:34,2026-03-26 00:54:34,21,Success,882363,,,Incremental
+REF-00062,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-25 01:33:34,2026-03-25 01:57:34,24,Success,964901,,,Incremental
+REF-00063,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-24 03:33:34,2026-03-24 04:20:34,47,Success,958850,,,Incremental
+REF-00064,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-23 05:33:34,2026-03-23 05:34:34,1,Failed,0,CAPACITY_LIMIT,Connection timeout after 300s,Full
+REF-00065,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-22 06:33:34,2026-03-22 07:03:34,30,Success,978997,,,Full
+REF-00066,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,Schedule,2026-03-21 05:33:34,2026-03-21 06:23:34,50,Success,1297875,,,Incremental
+REF-00067,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-20 07:33:34,2026-03-20 07:49:34,16,Success,593731,,,Full
+REF-00068,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-19 09:33:34,2026-03-19 10:10:34,37,Success,402083,,,Full
+REF-00069,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-18 08:33:34,2026-03-18 09:16:34,43,Success,667256,,,Incremental
+REF-00070,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-17 08:33:34,2026-03-17 09:05:34,32,Success,1304703,,,Incremental
+REF-00071,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-16 06:33:34,2026-03-16 07:19:34,46,Success,290908,,,Full
+REF-00072,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-15 06:33:34,2026-03-15 07:08:34,35,Success,824666,,,Incremental
+REF-00073,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,User,2026-03-14 07:33:34,2026-03-14 08:10:34,37,Success,1464234,,,Full
+REF-00074,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-13 08:33:34,2026-03-13 08:44:34,11,Success,402374,,,Full
+REF-00075,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-12 08:33:34,2026-03-12 09:07:34,34,Success,296334,,,Incremental
+REF-00076,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-11 07:33:34,2026-03-11 08:07:34,34,Success,881640,,,Full
+REF-00077,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-10 05:33:34,2026-03-10 05:54:34,21,Success,78566,,,Full
+REF-00078,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-09 04:33:34,2026-03-09 05:25:34,52,Success,1616249,,,Incremental
+REF-00079,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-08 04:33:34,2026-03-08 05:28:34,55,Success,779364,,,Incremental
+REF-00080,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-07 03:33:34,2026-03-07 04:03:34,30,Success,224782,,,Full
+REF-00081,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-06 05:33:34,2026-03-06 05:58:34,25,Success,1818163,,,Incremental
+REF-00082,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,User,2026-03-05 06:33:34,2026-03-05 07:23:34,50,Success,1242965,,,Incremental
+REF-00083,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-04 05:33:34,2026-03-04 05:44:34,11,Success,1655948,,,Full
+REF-00084,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,API,2026-03-03 05:33:34,2026-03-03 06:14:34,41,Success,1139879,,,Full
+REF-00085,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-02 03:33:34,2026-03-02 04:08:34,35,Success,1897762,,,Incremental
+REF-00086,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-03-01 02:33:34,2026-03-01 02:53:34,20,Success,1828330,,,Full
+REF-00087,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-02-28 03:33:34,2026-02-28 03:51:34,18,Success,1606925,,,Full
+REF-00088,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-02-27 03:33:34,2026-02-27 04:00:34,27,Success,957895,,,Incremental
+REF-00089,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Manual,Schedule,2026-02-26 02:33:34,2026-02-26 02:53:34,20,Success,1466899,,,Incremental
+REF-00090,DS-001,FAR Semantic Model,WS-002,Michigan Auto - FAR Reporting,Scheduled,Schedule,2026-02-25 02:33:34,2026-02-25 03:25:34,52,Success,1786638,,,Incremental
+REF-00091,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,API,2026-05-25 16:33:34,2026-05-25 17:26:34,53,Success,1130769,,,Incremental
+REF-00092,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-24 15:33:34,2026-05-24 15:54:34,21,Success,718323,,,Incremental
+REF-00093,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-23 15:33:34,2026-05-23 16:24:34,51,Success,111521,,,Incremental
+REF-00094,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,API,2026-05-22 17:33:34,2026-05-22 18:04:34,31,Success,967387,,,Full
+REF-00095,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,User,2026-05-21 18:33:34,2026-05-21 18:55:34,22,Success,343399,,,Full
+REF-00096,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-05-20 18:33:34,2026-05-20 18:59:34,26,Success,1403575,,,Incremental
+REF-00097,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-19 18:33:34,2026-05-19 19:24:34,51,Success,501035,,,Full
+REF-00098,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-18 19:33:34,2026-05-18 19:44:34,11,Success,1255036,,,Full
+REF-00099,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-17 19:33:34,2026-05-17 20:03:34,30,Success,1465488,,,Incremental
+REF-00100,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-16 21:33:34,2026-05-16 21:36:34,3,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00101,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-15 22:33:34,2026-05-15 22:36:34,3,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00102,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-05-14 21:33:34,2026-05-14 22:04:34,31,Success,1813472,,,Full
+REF-00103,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-05-13 23:33:34,2026-05-14 00:00:34,27,Success,747223,,,Full
+REF-00104,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-12 23:33:34,2026-05-12 23:51:34,18,Success,1170556,,,Full
+REF-00105,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-12 01:33:34,2026-05-12 02:18:34,45,Success,1846742,,,Incremental
+REF-00106,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,API,2026-05-11 00:33:34,2026-05-11 00:39:34,6,Success,1653751,,,Incremental
+REF-00107,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-05-10 02:33:34,2026-05-10 03:16:34,43,Success,1255561,,,Full
+REF-00108,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-05-09 02:33:34,2026-05-09 02:44:34,11,Success,821258,,,Incremental
+REF-00109,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-08 03:33:34,2026-05-08 04:25:34,52,Success,163074,,,Full
+REF-00110,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-07 05:33:34,2026-05-07 06:26:34,53,Success,844614,,,Incremental
+REF-00111,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-06 04:33:34,2026-05-06 05:01:34,28,Success,182863,,,Full
+REF-00112,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-05 06:33:34,2026-05-05 07:08:34,35,Success,1941319,,,Incremental
+REF-00113,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-04 05:33:34,2026-05-04 06:24:34,51,Success,1760128,,,Incremental
+REF-00114,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-05-03 04:33:34,2026-05-03 04:51:34,18,Success,131437,,,Full
+REF-00115,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-02 02:33:34,2026-05-02 02:55:34,22,Success,1406870,,,Full
+REF-00116,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-05-01 03:33:34,2026-05-01 03:46:34,13,Success,1051053,,,Incremental
+REF-00117,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-30 03:33:34,2026-04-30 03:44:34,11,Success,1582395,,,Incremental
+REF-00118,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-29 05:33:34,2026-04-29 06:03:34,30,Success,580384,,,Incremental
+REF-00119,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-04-28 07:33:34,2026-04-28 08:08:34,35,Success,765234,,,Full
+REF-00120,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-27 08:33:34,2026-04-27 08:42:34,9,Success,1885416,,,Full
+REF-00121,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-26 06:33:34,2026-04-26 06:51:34,18,Success,106430,,,Full
+REF-00122,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-25 08:33:34,2026-04-25 09:21:34,48,Success,1563288,,,Full
+REF-00123,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-24 08:33:34,2026-04-24 08:40:34,7,Success,1208597,,,Incremental
+REF-00124,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-04-23 09:33:34,2026-04-23 10:09:34,36,Success,106319,,,Incremental
+REF-00125,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-22 09:33:34,2026-04-22 09:55:34,22,Success,696399,,,Incremental
+REF-00126,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-21 09:33:34,2026-04-21 09:55:34,22,Success,1561003,,,Incremental
+REF-00127,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-20 08:33:34,2026-04-20 09:25:34,52,Success,419830,,,Incremental
+REF-00128,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-19 09:33:34,2026-04-19 09:34:34,1,Failed,0,SCHEMA_CHANGE,Schema change detected in source,Incremental
+REF-00129,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-18 11:33:34,2026-04-18 12:00:34,27,Success,1790494,,,Full
+REF-00130,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-17 12:33:34,2026-04-17 12:39:34,6,Success,308578,,,Incremental
+REF-00131,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-04-16 10:33:34,2026-04-16 10:59:34,26,Success,971456,,,Full
+REF-00132,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-15 11:33:34,2026-04-15 12:01:34,28,Success,166930,,,Incremental
+REF-00133,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-14 12:33:34,2026-04-14 12:52:34,19,Success,1794495,,,Incremental
+REF-00134,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-13 12:33:34,2026-04-13 12:53:34,20,Success,499918,,,Incremental
+REF-00135,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-12 10:33:34,2026-04-12 10:46:34,13,Success,952809,,,Incremental
+REF-00136,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-04-11 11:33:34,2026-04-11 12:05:34,32,Success,565761,,,Incremental
+REF-00137,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-10 11:33:34,2026-04-10 12:20:34,47,Success,1275217,,,Incremental
+REF-00138,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-09 13:33:34,2026-04-09 13:58:34,25,Success,840984,,,Full
+REF-00139,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-08 14:33:34,2026-04-08 14:37:34,4,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00140,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-07 16:33:34,2026-04-07 16:44:34,11,Success,425515,,,Incremental
+REF-00141,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-06 18:33:34,2026-04-06 18:52:34,19,Success,1933987,,,Full
+REF-00142,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-05 17:33:34,2026-04-05 17:41:34,8,Success,1908086,,,Full
+REF-00143,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-04 16:33:34,2026-04-04 17:03:34,30,Warning,0,TIMEOUT,Authentication failed for data source,Full
+REF-00144,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-03 17:33:34,2026-04-03 17:53:34,20,Success,596897,,,Incremental
+REF-00145,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-02 15:33:34,2026-04-02 15:54:34,21,Success,1056251,,,Full
+REF-00146,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-01 15:33:34,2026-04-01 16:02:34,29,Success,428293,,,Full
+REF-00147,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-31 13:33:34,2026-03-31 14:00:34,27,Success,1649796,,,Incremental
+REF-00148,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-30 13:33:34,2026-03-30 14:08:34,35,Success,684453,,,Incremental
+REF-00149,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-29 14:33:34,2026-03-29 14:34:34,1,Failed,0,TIMEOUT,Authentication failed for data source,Full
+REF-00150,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-28 15:33:34,2026-03-28 15:51:34,18,Warning,0,CAPACITY_LIMIT,Connection timeout after 300s,Incremental
+REF-00151,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-27 16:33:34,2026-03-27 17:27:34,54,Success,824581,,,Incremental
+REF-00152,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-26 17:33:34,2026-03-26 17:56:34,23,Success,1700745,,,Incremental
+REF-00153,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-25 17:33:34,2026-03-25 18:12:34,39,Success,308010,,,Incremental
+REF-00154,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-24 16:33:34,2026-03-24 16:47:34,14,Success,1038519,,,Incremental
+REF-00155,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-03-23 18:33:34,2026-03-23 18:36:34,3,Success,705696,,,Full
+REF-00156,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-22 19:33:34,2026-03-22 19:56:34,23,Success,134897,,,Incremental
+REF-00157,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-03-21 21:33:34,2026-03-21 21:59:34,26,Success,162109,,,Incremental
+REF-00158,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-03-20 23:33:34,2026-03-20 23:56:34,23,Success,296159,,,Incremental
+REF-00159,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-03-19 22:33:34,2026-03-19 22:47:34,14,Success,1493070,,,Incremental
+REF-00160,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-18 22:33:34,2026-03-18 23:13:34,40,Success,1718034,,,Incremental
+REF-00161,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-17 23:33:34,2026-03-17 23:36:34,3,Success,1999752,,,Incremental
+REF-00162,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,API,2026-03-16 21:33:34,2026-03-16 21:56:34,23,Warning,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00163,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-15 22:33:34,2026-03-15 22:40:34,7,Success,509113,,,Incremental
+REF-00164,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-15 00:33:34,2026-03-15 01:18:34,45,Success,1350295,,,Full
+REF-00165,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-14 01:33:34,2026-03-14 01:40:34,7,Success,745012,,,Full
+REF-00166,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-03-13 00:33:34,2026-03-13 01:02:34,29,Success,358836,,,Incremental
+REF-00167,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-03-11 22:33:34,2026-03-11 23:06:34,33,Success,1664086,,,Incremental
+REF-00168,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-10 23:33:34,2026-03-11 00:27:34,54,Success,1783692,,,Full
+REF-00169,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-10 01:33:34,2026-03-10 02:00:34,27,Success,347441,,,Incremental
+REF-00170,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-09 03:33:34,2026-03-09 04:15:34,42,Success,1883231,,,Incremental
+REF-00171,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-08 04:33:34,2026-03-08 05:03:34,30,Success,339470,,,Incremental
+REF-00172,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-07 03:33:34,2026-03-07 04:22:34,49,Success,1951068,,,Full
+REF-00173,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-06 04:33:34,2026-03-06 04:37:34,4,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00174,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-05 02:33:34,2026-03-05 02:42:34,9,Success,63971,,,Incremental
+REF-00175,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-04 01:33:34,2026-03-04 01:55:34,22,Success,1656005,,,Incremental
+REF-00176,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-03 03:33:34,2026-03-03 04:00:34,27,Success,397724,,,Full
+REF-00177,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-02 05:33:34,2026-03-02 06:05:34,32,Success,562391,,,Full
+REF-00178,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-03-01 07:33:34,2026-03-01 07:37:34,4,Failed,0,AUTH_FAIL,Schema change detected in source,Incremental
+REF-00179,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-02-28 06:33:34,2026-02-28 07:19:34,46,Success,1828008,,,Full
+REF-00180,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-02-27 06:33:34,2026-02-27 06:38:34,5,Warning,0,SCHEMA_CHANGE,Authentication failed for data source,Incremental
+REF-00181,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-02-26 08:33:34,2026-02-26 09:04:34,31,Success,372553,,,Full
+REF-00182,DS-003,Maintenance Semantic Model,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-02-25 09:33:34,2026-02-25 09:34:34,1,Failed,0,CAPACITY_LIMIT,Authentication failed for data source,Incremental
+REF-00183,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 17:22:34,49,Success,1927161,,,Incremental
+REF-00184,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-05-24 14:33:34,2026-05-24 14:53:34,20,Success,1099865,,,Incremental
+REF-00185,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-23 12:33:34,2026-05-23 13:26:34,53,Success,889952,,,Incremental
+REF-00186,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-22 10:33:34,2026-05-22 10:42:34,9,Success,1949714,,,Incremental
+REF-00187,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-21 08:33:34,2026-05-21 09:02:34,29,Success,563934,,,Incremental
+REF-00188,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-20 10:33:34,2026-05-20 11:01:34,28,Success,311680,,,Incremental
+REF-00189,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-19 09:33:34,2026-05-19 09:57:34,24,Success,1458112,,,Incremental
+REF-00190,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-18 09:33:34,2026-05-18 09:36:34,3,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00191,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-17 10:33:34,2026-05-17 11:23:34,50,Success,939270,,,Incremental
+REF-00192,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-16 08:33:34,2026-05-16 08:48:34,15,Success,936346,,,Incremental
+REF-00193,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-15 06:33:34,2026-05-15 07:28:34,55,Success,127872,,,Incremental
+REF-00194,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-14 04:33:34,2026-05-14 05:25:34,52,Success,1795295,,,Full
+REF-00195,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-05-13 05:33:34,2026-05-13 05:51:34,18,Success,79355,,,Incremental
+REF-00196,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-05-12 05:33:34,2026-05-12 06:05:34,32,Success,1069326,,,Incremental
+REF-00197,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-05-11 06:33:34,2026-05-11 07:14:34,41,Success,945546,,,Incremental
+REF-00198,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-10 06:33:34,2026-05-10 06:52:34,19,Success,1580685,,,Full
+REF-00199,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,OnDemand,User,2026-05-09 08:33:34,2026-05-09 09:12:34,39,Success,1645422,,,Incremental
+REF-00200,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-08 09:33:34,2026-05-08 10:02:34,29,Success,1086428,,,Incremental
+REF-00201,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-07 11:33:34,2026-05-07 11:44:34,11,Success,1367636,,,Full
+REF-00202,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,OnDemand,Schedule,2026-05-06 09:33:34,2026-05-06 09:55:34,22,Success,1504725,,,Incremental
+REF-00203,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-05 08:33:34,2026-05-05 09:05:34,32,Success,538479,,,Incremental
+REF-00204,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-04 06:33:34,2026-05-04 06:42:34,9,Success,25408,,,Incremental
+REF-00205,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-03 06:33:34,2026-05-03 07:14:34,41,Success,1287270,,,Incremental
+REF-00206,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-05-02 06:33:34,2026-05-02 07:16:34,43,Success,691861,,,Incremental
+REF-00207,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-05-01 06:33:34,2026-05-01 07:09:34,36,Success,1615316,,,Incremental
+REF-00208,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-30 04:33:34,2026-04-30 04:56:34,23,Success,1437648,,,Incremental
+REF-00209,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-29 04:33:34,2026-04-29 05:02:34,29,Success,858505,,,Incremental
+REF-00210,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-28 02:33:34,2026-04-28 02:57:34,24,Success,1533685,,,Incremental
+REF-00211,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-27 01:33:34,2026-04-27 02:18:34,45,Success,761822,,,Incremental
+REF-00212,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-25 23:33:34,2026-04-25 23:42:34,9,Success,997299,,,Incremental
+REF-00213,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-25 00:33:34,2026-04-25 00:57:34,24,Success,1382448,,,Incremental
+REF-00214,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-24 00:33:34,2026-04-24 00:57:34,24,Success,789474,,,Incremental
+REF-00215,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-22 23:33:34,2026-04-23 00:13:34,40,Warning,0,AUTH_FAIL,Connection timeout after 300s,Full
+REF-00216,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-04-21 22:33:34,2026-04-21 23:02:34,29,Success,123376,,,Incremental
+REF-00217,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-04-20 22:33:34,2026-04-20 23:12:34,39,Success,1882431,,,Incremental
+REF-00218,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-19 23:33:34,2026-04-20 00:07:34,34,Success,707574,,,Incremental
+REF-00219,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-19 01:33:34,2026-04-19 01:49:34,16,Success,1606338,,,Full
+REF-00220,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,API,2026-04-18 03:33:34,2026-04-18 03:37:34,4,Failed,0,TIMEOUT,Connection timeout after 300s,Full
+REF-00221,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-17 03:33:34,2026-04-17 03:56:34,23,Success,1597224,,,Incremental
+REF-00222,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-16 04:33:34,2026-04-16 04:58:34,25,Success,664504,,,Incremental
+REF-00223,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-15 05:33:34,2026-04-15 05:55:34,22,Success,1999071,,,Incremental
+REF-00224,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-04-14 05:33:34,2026-04-14 06:19:34,46,Success,290576,,,Incremental
+REF-00225,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-13 06:33:34,2026-04-13 07:27:34,54,Success,855973,,,Incremental
+REF-00226,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-12 07:33:34,2026-04-12 08:13:34,40,Success,1068293,,,Incremental
+REF-00227,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-11 09:33:34,2026-04-11 10:16:34,43,Success,546428,,,Incremental
+REF-00228,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-10 11:33:34,2026-04-10 12:17:34,44,Success,1763470,,,Incremental
+REF-00229,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-09 10:33:34,2026-04-09 10:37:34,4,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00230,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-08 12:33:34,2026-04-08 12:53:34,20,Success,1316101,,,Incremental
+REF-00231,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-07 14:33:34,2026-04-07 15:15:34,42,Success,256907,,,Incremental
+REF-00232,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-06 12:33:34,2026-04-06 12:52:34,19,Success,1753779,,,Incremental
+REF-00233,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-04-05 12:33:34,2026-04-05 13:11:34,38,Success,1050931,,,Incremental
+REF-00234,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-04-04 13:33:34,2026-04-04 13:41:34,8,Warning,0,AUTH_FAIL,Connection timeout after 300s,Full
+REF-00235,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-04-03 11:33:34,2026-04-03 11:42:34,9,Warning,0,AUTH_FAIL,Capacity limit exceeded,Full
+REF-00236,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-02 13:33:34,2026-04-02 13:38:34,5,Success,1797295,,,Incremental
+REF-00237,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-04-01 15:33:34,2026-04-01 15:36:34,3,Success,1796770,,,Incremental
+REF-00238,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-31 14:33:34,2026-03-31 14:53:34,20,Success,1852296,,,Incremental
+REF-00239,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-30 16:33:34,2026-03-30 17:05:34,32,Success,580075,,,Incremental
+REF-00240,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-29 15:33:34,2026-03-29 16:27:34,54,Success,359760,,,Full
+REF-00241,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-28 16:33:34,2026-03-28 17:06:34,33,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00242,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-03-27 18:33:34,2026-03-27 19:22:34,49,Success,1880162,,,Full
+REF-00243,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-26 17:33:34,2026-03-26 17:40:34,7,Success,558641,,,Incremental
+REF-00244,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,API,2026-03-25 15:33:34,2026-03-25 16:12:34,39,Success,1527863,,,Incremental
+REF-00245,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-24 15:33:34,2026-03-24 16:20:34,47,Success,1479223,,,Incremental
+REF-00246,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-23 14:33:34,2026-03-23 15:19:34,46,Success,1355122,,,Incremental
+REF-00247,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-22 12:33:34,2026-03-22 12:46:34,13,Warning,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00248,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-21 12:33:34,2026-03-21 12:53:34,20,Success,115593,,,Incremental
+REF-00249,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-20 13:33:34,2026-03-20 13:37:34,4,Failed,0,TIMEOUT,Capacity limit exceeded,Incremental
+REF-00250,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-19 15:33:34,2026-03-19 15:34:34,1,Failed,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00251,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-18 15:33:34,2026-03-18 16:11:34,38,Success,443798,,,Incremental
+REF-00252,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-17 17:33:34,2026-03-17 18:05:34,32,Success,706197,,,Incremental
+REF-00253,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-16 17:33:34,2026-03-16 17:43:34,10,Success,214340,,,Incremental
+REF-00254,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-03-15 17:33:34,2026-03-15 17:59:34,26,Success,1482402,,,Incremental
+REF-00255,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-03-14 16:33:34,2026-03-14 16:48:34,15,Warning,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00256,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-03-13 16:33:34,2026-03-13 16:34:34,1,Failed,0,AUTH_FAIL,Schema change detected in source,Incremental
+REF-00257,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-12 14:33:34,2026-03-12 14:44:34,11,Success,1056119,,,Incremental
+REF-00258,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,User,2026-03-11 13:33:34,2026-03-11 14:06:34,33,Success,1948546,,,Full
+REF-00259,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-10 11:33:34,2026-03-10 12:28:34,55,Success,279236,,,Incremental
+REF-00260,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,OnDemand,User,2026-03-09 11:33:34,2026-03-09 12:00:34,27,Success,888003,,,Incremental
+REF-00261,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-08 11:33:34,2026-03-08 11:57:34,24,Success,626926,,,Incremental
+REF-00262,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Manual,Schedule,2026-03-07 09:33:34,2026-03-07 10:20:34,47,Success,1158832,,,Incremental
+REF-00263,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-06 10:33:34,2026-03-06 11:15:34,42,Success,1508172,,,Incremental
+REF-00264,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-05 11:33:34,2026-03-05 12:20:34,47,Success,1345628,,,Incremental
+REF-00265,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-04 10:33:34,2026-03-04 11:18:34,45,Success,1499237,,,Incremental
+REF-00266,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-03 10:33:34,2026-03-03 11:03:34,30,Success,1705137,,,Incremental
+REF-00267,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-02 12:33:34,2026-03-02 12:48:34,15,Success,569894,,,Full
+REF-00268,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-03-01 12:33:34,2026-03-01 13:20:34,47,Success,1654916,,,Full
+REF-00269,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-02-28 11:33:34,2026-02-28 12:23:34,50,Warning,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00270,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-02-27 11:33:34,2026-02-27 11:39:34,6,Success,1952979,,,Incremental
+REF-00271,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-02-26 11:33:34,2026-02-26 11:39:34,6,Success,37190,,,Incremental
+REF-00272,DS-004,Predictive Model Dataset,WS-005,Michigan Auto - Data Science,Scheduled,Schedule,2026-02-25 10:33:34,2026-02-25 11:16:34,43,Success,1487714,,,Incremental
+REF-00273,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 17:22:34,49,Success,415794,,,Incremental
+REF-00274,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-18 17:33:34,2026-05-18 18:23:34,50,Success,1087614,,,Full
+REF-00275,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-11 17:33:34,2026-05-11 17:52:34,19,Warning,0,CAPACITY_LIMIT,Connection timeout after 300s,Incremental
+REF-00276,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-04 15:33:34,2026-05-04 16:15:34,42,Warning,0,SCHEMA_CHANGE,Authentication failed for data source,Full
+REF-00277,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-27 15:33:34,2026-04-27 15:47:34,14,Success,1101790,,,Incremental
+REF-00278,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-04-20 13:33:34,2026-04-20 13:58:34,25,Success,473885,,,Incremental
+REF-00279,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,API,2026-04-13 13:33:34,2026-04-13 14:24:34,51,Success,1306628,,,Incremental
+REF-00280,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-06 15:33:34,2026-04-06 15:37:34,4,Failed,0,CAPACITY_LIMIT,Connection timeout after 300s,Full
+REF-00281,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-30 15:33:34,2026-03-30 16:26:34,53,Success,1991782,,,Incremental
+REF-00282,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-23 17:33:34,2026-03-23 18:28:34,55,Success,1625843,,,Incremental
+REF-00283,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-16 19:33:34,2026-03-16 20:17:34,44,Success,413727,,,Full
+REF-00284,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-09 17:33:34,2026-03-09 18:16:34,43,Success,147304,,,Full
+REF-00285,DS-005,HR Semantic Model,WS-006,Michigan Auto - Finance,Scheduled,User,2026-03-02 16:33:34,2026-03-02 16:49:34,16,Success,1137752,,,Incremental
+REF-00286,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:40:34,7,Success,1576343,,,Incremental
+REF-00287,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-24 18:33:34,2026-05-24 18:47:34,14,Success,1675589,,,Incremental
+REF-00288,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-23 18:33:34,2026-05-23 19:04:34,31,Success,1331661,,,Incremental
+REF-00289,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-22 20:33:34,2026-05-22 21:17:34,44,Success,1520548,,,Incremental
+REF-00290,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-21 22:33:34,2026-05-21 23:08:34,35,Success,232582,,,Incremental
+REF-00291,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-20 22:33:34,2026-05-20 23:04:34,31,Success,809882,,,Incremental
+REF-00292,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-19 20:33:34,2026-05-19 21:23:34,50,Success,829970,,,Full
+REF-00293,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-18 21:33:34,2026-05-18 22:26:34,53,Success,1828522,,,Incremental
+REF-00294,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-17 19:33:34,2026-05-17 19:45:34,12,Success,268442,,,Incremental
+REF-00295,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-05-16 17:33:34,2026-05-16 17:55:34,22,Success,450512,,,Incremental
+REF-00296,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-15 16:33:34,2026-05-15 17:08:34,35,Success,308750,,,Incremental
+REF-00297,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-14 17:33:34,2026-05-14 18:27:34,54,Warning,0,SCHEMA_CHANGE,Capacity limit exceeded,Incremental
+REF-00298,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-13 15:33:34,2026-05-13 15:40:34,7,Warning,0,AUTH_FAIL,Capacity limit exceeded,Incremental
+REF-00299,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-05-12 16:33:34,2026-05-12 16:40:34,7,Warning,0,AUTH_FAIL,Authentication failed for data source,Incremental
+REF-00300,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,API,2026-05-11 14:33:34,2026-05-11 15:12:34,39,Success,774398,,,Full
+REF-00301,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-10 14:33:34,2026-05-10 14:50:34,17,Success,1503589,,,Incremental
+REF-00302,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-09 15:33:34,2026-05-09 15:57:34,24,Success,1851060,,,Incremental
+REF-00303,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-08 14:33:34,2026-05-08 14:47:34,14,Success,1363819,,,Incremental
+REF-00304,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-07 15:33:34,2026-05-07 15:48:34,15,Success,562043,,,Incremental
+REF-00305,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-06 17:33:34,2026-05-06 18:16:34,43,Success,75419,,,Incremental
+REF-00306,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,API,2026-05-05 18:33:34,2026-05-05 19:11:34,38,Success,556552,,,Incremental
+REF-00307,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-04 19:33:34,2026-05-04 19:50:34,17,Success,1879480,,,Full
+REF-00308,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-03 18:33:34,2026-05-03 18:41:34,8,Success,842118,,,Full
+REF-00309,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-02 16:33:34,2026-05-02 17:24:34,51,Success,1088222,,,Incremental
+REF-00310,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-05-01 14:33:34,2026-05-01 14:45:34,12,Success,1553335,,,Full
+REF-00311,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-30 13:33:34,2026-04-30 13:52:34,19,Success,784761,,,Incremental
+REF-00312,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,API,2026-04-29 13:33:34,2026-04-29 14:05:34,32,Success,1858748,,,Incremental
+REF-00313,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-28 11:33:34,2026-04-28 11:53:34,20,Success,1760854,,,Incremental
+REF-00314,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-27 10:33:34,2026-04-27 10:59:34,26,Success,1242451,,,Incremental
+REF-00315,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-26 09:33:34,2026-04-26 09:50:34,17,Success,1092910,,,Incremental
+REF-00316,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-04-25 08:33:34,2026-04-25 08:36:34,3,Success,1062428,,,Full
+REF-00317,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-24 06:33:34,2026-04-24 06:49:34,16,Success,325076,,,Incremental
+REF-00318,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-23 08:33:34,2026-04-23 09:02:34,29,Success,1711152,,,Incremental
+REF-00319,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-22 07:33:34,2026-04-22 07:46:34,13,Success,1367400,,,Full
+REF-00320,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-04-21 05:33:34,2026-04-21 05:44:34,11,Success,1330241,,,Full
+REF-00321,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,OnDemand,Schedule,2026-04-20 06:33:34,2026-04-20 06:47:34,14,Success,1093474,,,Incremental
+REF-00322,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-04-19 08:33:34,2026-04-19 09:22:34,49,Success,1397779,,,Full
+REF-00323,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-18 06:33:34,2026-04-18 07:06:34,33,Success,367704,,,Full
+REF-00324,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-17 04:33:34,2026-04-17 04:47:34,14,Success,1316969,,,Incremental
+REF-00325,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-16 04:33:34,2026-04-16 05:14:34,41,Success,1248569,,,Full
+REF-00326,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-15 06:33:34,2026-04-15 07:08:34,35,Success,1445223,,,Full
+REF-00327,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-04-14 05:33:34,2026-04-14 06:14:34,41,Success,91865,,,Incremental
+REF-00328,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-13 07:33:34,2026-04-13 07:44:34,11,Success,1901599,,,Incremental
+REF-00329,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-12 06:33:34,2026-04-12 06:59:34,26,Success,1844639,,,Full
+REF-00330,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-11 05:33:34,2026-04-11 06:00:34,27,Success,745089,,,Incremental
+REF-00331,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-04-10 03:33:34,2026-04-10 03:52:34,19,Success,1010637,,,Full
+REF-00332,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-09 01:33:34,2026-04-09 02:02:34,29,Success,550656,,,Incremental
+REF-00333,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-07 23:33:34,2026-04-08 00:09:34,36,Success,25087,,,Incremental
+REF-00334,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-06 22:33:34,2026-04-06 22:45:34,12,Success,903536,,,Incremental
+REF-00335,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,OnDemand,Schedule,2026-04-05 21:33:34,2026-04-05 22:15:34,42,Success,587892,,,Full
+REF-00336,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-04 19:33:34,2026-04-04 20:06:34,33,Success,384802,,,Full
+REF-00337,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-03 19:33:34,2026-04-03 20:25:34,52,Success,1489529,,,Incremental
+REF-00338,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-02 21:33:34,2026-04-02 22:04:34,31,Success,1652299,,,Full
+REF-00339,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-01 20:33:34,2026-04-01 21:27:34,54,Success,1164642,,,Full
+REF-00340,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-31 19:33:34,2026-03-31 19:36:34,3,Success,1696884,,,Incremental
+REF-00341,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-30 18:33:34,2026-03-30 18:35:34,2,Failed,0,SCHEMA_CHANGE,Capacity limit exceeded,Incremental
+REF-00342,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-03-29 16:33:34,2026-03-29 17:14:34,41,Success,130508,,,Incremental
+REF-00343,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-28 15:33:34,2026-03-28 16:27:34,54,Warning,0,SCHEMA_CHANGE,Authentication failed for data source,Incremental
+REF-00344,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-27 13:33:34,2026-03-27 13:38:34,5,Success,764429,,,Full
+REF-00345,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-26 13:33:34,2026-03-26 13:58:34,25,Success,1414383,,,Incremental
+REF-00346,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-25 15:33:34,2026-03-25 16:11:34,38,Success,606626,,,Incremental
+REF-00347,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-24 15:33:34,2026-03-24 15:53:34,20,Success,484576,,,Incremental
+REF-00348,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-23 13:33:34,2026-03-23 14:02:34,29,Success,1071658,,,Full
+REF-00349,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-22 15:33:34,2026-03-22 15:52:34,19,Success,1847342,,,Full
+REF-00350,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-21 14:33:34,2026-03-21 15:12:34,39,Success,1024245,,,Incremental
+REF-00351,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-20 13:33:34,2026-03-20 14:13:34,40,Success,1817793,,,Full
+REF-00352,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,API,2026-03-19 14:33:34,2026-03-19 14:50:34,17,Success,1688060,,,Incremental
+REF-00353,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-18 16:33:34,2026-03-18 16:52:34,19,Success,530633,,,Incremental
+REF-00354,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-03-17 16:33:34,2026-03-17 17:06:34,33,Success,668238,,,Full
+REF-00355,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-03-16 17:33:34,2026-03-16 17:48:34,15,Success,502539,,,Full
+REF-00356,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-15 18:33:34,2026-03-15 19:15:34,42,Success,756643,,,Incremental
+REF-00357,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-14 17:33:34,2026-03-14 18:24:34,51,Success,1807446,,,Incremental
+REF-00358,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-13 15:33:34,2026-03-13 16:12:34,39,Success,1831940,,,Incremental
+REF-00359,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-12 13:33:34,2026-03-12 13:50:34,17,Success,1583219,,,Incremental
+REF-00360,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-03-11 12:33:34,2026-03-11 12:38:34,5,Success,1063766,,,Incremental
+REF-00361,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-10 11:33:34,2026-03-10 12:20:34,47,Success,1096754,,,Full
+REF-00362,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-03-09 12:33:34,2026-03-09 12:42:34,9,Success,692489,,,Full
+REF-00363,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-08 12:33:34,2026-03-08 13:06:34,33,Success,1295730,,,Incremental
+REF-00364,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-03-07 11:33:34,2026-03-07 11:59:34,26,Success,775624,,,Full
+REF-00365,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-06 12:33:34,2026-03-06 13:19:34,46,Success,489339,,,Incremental
+REF-00366,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,API,2026-03-05 10:33:34,2026-03-05 11:00:34,27,Success,421174,,,Full
+REF-00367,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,OnDemand,Schedule,2026-03-04 12:33:34,2026-03-04 13:07:34,34,Success,292007,,,Incremental
+REF-00368,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-03 12:33:34,2026-03-03 12:55:34,22,Success,536330,,,Incremental
+REF-00369,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-02 13:33:34,2026-03-02 13:37:34,4,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00370,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-01 11:33:34,2026-03-01 11:52:34,19,Success,731714,,,Incremental
+REF-00371,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-02-28 09:33:34,2026-02-28 10:12:34,39,Success,1372866,,,Incremental
+REF-00372,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-02-27 09:33:34,2026-02-27 10:08:34,35,Success,1032348,,,Full
+REF-00373,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-02-26 07:33:34,2026-02-26 08:16:34,43,Success,313768,,,Incremental
+REF-00374,DS-006,Supply Chain Dataset,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-02-25 06:33:34,2026-02-25 07:12:34,39,Success,858869,,,Full
+REF-00375,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 17:17:34,44,Success,621018,,,Incremental
+REF-00376,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-05-24 15:33:34,2026-05-24 15:59:34,26,Success,1578450,,,Incremental
+REF-00377,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-23 16:33:34,2026-05-23 16:44:34,11,Success,1536249,,,Incremental
+REF-00378,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-05-22 18:33:34,2026-05-22 19:01:34,28,Success,226026,,,Incremental
+REF-00379,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-21 20:33:34,2026-05-21 20:34:34,1,Failed,0,TIMEOUT,Capacity limit exceeded,Incremental
+REF-00380,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-20 21:33:34,2026-05-20 21:54:34,21,Success,939374,,,Incremental
+REF-00381,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-05-19 23:33:34,2026-05-19 23:36:34,3,Failed,0,SCHEMA_CHANGE,Capacity limit exceeded,Incremental
+REF-00382,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-19 00:33:34,2026-05-19 01:20:34,47,Success,1140968,,,Incremental
+REF-00383,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-05-17 22:33:34,2026-05-17 23:16:34,43,Success,1351187,,,Incremental
+REF-00384,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-16 23:33:34,2026-05-17 00:04:34,31,Success,655646,,,Incremental
+REF-00385,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-16 01:33:34,2026-05-16 02:24:34,51,Success,1788272,,,Incremental
+REF-00386,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-15 00:33:34,2026-05-15 01:06:34,33,Success,638328,,,Full
+REF-00387,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-05-14 01:33:34,2026-05-14 02:11:34,38,Success,793588,,,Incremental
+REF-00388,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-13 02:33:34,2026-05-13 03:23:34,50,Success,1364740,,,Full
+REF-00389,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-12 01:33:34,2026-05-12 02:09:34,36,Success,1613353,,,Incremental
+REF-00390,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-11 01:33:34,2026-05-11 02:23:34,50,Success,1125567,,,Incremental
+REF-00391,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-10 02:33:34,2026-05-10 03:16:34,43,Success,964923,,,Incremental
+REF-00392,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-05-09 03:33:34,2026-05-09 03:45:34,12,Success,114085,,,Incremental
+REF-00393,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-08 03:33:34,2026-05-08 04:21:34,48,Success,929426,,,Full
+REF-00394,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-07 02:33:34,2026-05-07 03:02:34,29,Success,663423,,,Incremental
+REF-00395,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-06 04:33:34,2026-05-06 05:24:34,51,Success,316368,,,Full
+REF-00396,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-05 03:33:34,2026-05-05 03:52:34,19,Success,1723898,,,Incremental
+REF-00397,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-04 04:33:34,2026-05-04 05:04:34,31,Success,528336,,,Incremental
+REF-00398,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-05-03 06:33:34,2026-05-03 06:49:34,16,Success,1001587,,,Incremental
+REF-00399,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-05-02 07:33:34,2026-05-02 07:38:34,5,Success,1571800,,,Full
+REF-00400,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-05-01 07:33:34,2026-05-01 07:39:34,6,Success,1821221,,,Full
+REF-00401,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-30 06:33:34,2026-04-30 06:46:34,13,Success,1675957,,,Incremental
+REF-00402,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-29 08:33:34,2026-04-29 09:13:34,40,Success,1653066,,,Full
+REF-00403,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-28 10:33:34,2026-04-28 11:07:34,34,Success,201682,,,Incremental
+REF-00404,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-27 12:33:34,2026-04-27 12:45:34,12,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00405,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-26 12:33:34,2026-04-26 13:04:34,31,Success,1547608,,,Incremental
+REF-00406,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-25 13:33:34,2026-04-25 13:38:34,5,Success,1027752,,,Incremental
+REF-00407,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-24 12:33:34,2026-04-24 12:47:34,14,Success,1150054,,,Full
+REF-00408,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-23 10:33:34,2026-04-23 11:11:34,38,Success,346264,,,Full
+REF-00409,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-22 10:33:34,2026-04-22 11:05:34,32,Success,11509,,,Incremental
+REF-00410,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-21 12:33:34,2026-04-21 12:59:34,26,Success,1637424,,,Full
+REF-00411,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-20 10:33:34,2026-04-20 10:48:34,15,Success,1109053,,,Full
+REF-00412,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-19 10:33:34,2026-04-19 11:17:34,44,Success,685333,,,Full
+REF-00413,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-18 11:33:34,2026-04-18 11:38:34,5,Success,433790,,,Full
+REF-00414,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-17 10:33:34,2026-04-17 11:09:34,36,Success,1318560,,,Incremental
+REF-00415,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-04-16 08:33:34,2026-04-16 08:36:34,3,Success,1960793,,,Incremental
+REF-00416,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-15 10:33:34,2026-04-15 11:16:34,43,Success,137297,,,Incremental
+REF-00417,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-14 10:33:34,2026-04-14 10:39:34,6,Success,1737304,,,Incremental
+REF-00418,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-13 10:33:34,2026-04-13 11:09:34,36,Success,213673,,,Incremental
+REF-00419,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-12 11:33:34,2026-04-12 11:51:34,18,Success,1205434,,,Incremental
+REF-00420,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-11 10:33:34,2026-04-11 11:25:34,52,Success,1349292,,,Incremental
+REF-00421,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-10 09:33:34,2026-04-10 09:46:34,13,Success,1671912,,,Incremental
+REF-00422,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,User,2026-04-09 10:33:34,2026-04-09 11:14:34,41,Success,939063,,,Incremental
+REF-00423,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-08 10:33:34,2026-04-08 11:02:34,29,Success,1612610,,,Incremental
+REF-00424,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-07 11:33:34,2026-04-07 11:49:34,16,Success,796564,,,Full
+REF-00425,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-04-06 10:33:34,2026-04-06 11:01:34,28,Success,10410,,,Incremental
+REF-00426,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-05 08:33:34,2026-04-05 08:34:34,1,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00427,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-04 08:33:34,2026-04-04 09:08:34,35,Success,1176694,,,Full
+REF-00428,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-03 07:33:34,2026-04-03 07:44:34,11,Success,565720,,,Full
+REF-00429,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-02 07:33:34,2026-04-02 07:35:34,2,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00430,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-01 05:33:34,2026-04-01 05:42:34,9,Success,1258290,,,Incremental
+REF-00431,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-31 04:33:34,2026-03-31 05:25:34,52,Success,711265,,,Incremental
+REF-00432,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-30 06:33:34,2026-03-30 06:50:34,17,Success,1577995,,,Full
+REF-00433,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-29 05:33:34,2026-03-29 05:38:34,5,Warning,0,TIMEOUT,Authentication failed for data source,Full
+REF-00434,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-28 04:33:34,2026-03-28 05:24:34,51,Success,1258082,,,Incremental
+REF-00435,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-27 03:33:34,2026-03-27 03:34:34,1,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00436,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-26 02:33:34,2026-03-26 02:44:34,11,Success,1608098,,,Incremental
+REF-00437,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-25 00:33:34,2026-03-25 01:15:34,42,Success,1552807,,,Full
+REF-00438,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-23 23:33:34,2026-03-24 00:12:34,39,Success,197893,,,Incremental
+REF-00439,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-23 00:33:34,2026-03-23 01:14:34,41,Success,1384494,,,Incremental
+REF-00440,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-21 22:33:34,2026-03-21 23:27:34,54,Success,937381,,,Incremental
+REF-00441,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-20 23:33:34,2026-03-20 23:59:34,26,Success,337137,,,Full
+REF-00442,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-20 01:33:34,2026-03-20 02:15:34,42,Success,1953493,,,Full
+REF-00443,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-19 01:33:34,2026-03-19 01:43:34,10,Success,649878,,,Full
+REF-00444,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-17 23:33:34,2026-03-18 00:10:34,37,Success,1107368,,,Incremental
+REF-00445,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-17 00:33:34,2026-03-17 01:18:34,45,Success,48563,,,Incremental
+REF-00446,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-16 00:33:34,2026-03-16 00:54:34,21,Success,430890,,,Full
+REF-00447,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-15 02:33:34,2026-03-15 02:53:34,20,Warning,0,TIMEOUT,Connection timeout after 300s,Full
+REF-00448,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-03-14 01:33:34,2026-03-14 02:00:34,27,Success,1076486,,,Incremental
+REF-00449,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-12 23:33:34,2026-03-12 23:47:34,14,Success,427071,,,Incremental
+REF-00450,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-12 01:33:34,2026-03-12 01:55:34,22,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00451,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-11 01:33:34,2026-03-11 02:08:34,35,Success,588558,,,Incremental
+REF-00452,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-10 03:33:34,2026-03-10 03:53:34,20,Success,483081,,,Incremental
+REF-00453,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-09 05:33:34,2026-03-09 06:09:34,36,Success,1431858,,,Full
+REF-00454,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-08 06:33:34,2026-03-08 07:03:34,30,Success,665114,,,Incremental
+REF-00455,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-07 07:33:34,2026-03-07 08:13:34,40,Success,1145301,,,Full
+REF-00456,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-03-06 05:33:34,2026-03-06 06:03:34,30,Success,1916315,,,Incremental
+REF-00457,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-05 06:33:34,2026-03-05 07:11:34,38,Success,1127701,,,Incremental
+REF-00458,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-04 07:33:34,2026-03-04 08:24:34,51,Success,678336,,,Incremental
+REF-00459,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-03 06:33:34,2026-03-03 07:28:34,55,Success,1885126,,,Full
+REF-00460,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-03-02 07:33:34,2026-03-02 07:37:34,4,Success,1608968,,,Incremental
+REF-00461,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-01 05:33:34,2026-03-01 05:50:34,17,Success,494258,,,Incremental
+REF-00462,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-28 04:33:34,2026-02-28 05:06:34,33,Warning,0,SCHEMA_CHANGE,Authentication failed for data source,Full
+REF-00463,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,OnDemand,User,2026-02-27 05:33:34,2026-02-27 06:02:34,29,Success,1613354,,,Incremental
+REF-00464,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-26 06:33:34,2026-02-26 06:48:34,15,Success,1599172,,,Incremental
+REF-00465,DS-007,Energy Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-25 05:33:34,2026-02-25 06:07:34,34,Success,1452552,,,Full
+REF-00466,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 17:14:34,41,Success,1552102,,,Incremental
+REF-00467,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-05-24 14:33:34,2026-05-24 15:09:34,36,Success,1355100,,,Incremental
+REF-00468,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-05-23 13:33:34,2026-05-23 13:38:34,5,Success,1850837,,,Incremental
+REF-00469,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-22 15:33:34,2026-05-22 16:09:34,36,Success,1614656,,,Full
+REF-00470,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-21 14:33:34,2026-05-21 15:25:34,52,Success,1745647,,,Full
+REF-00471,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-20 16:33:34,2026-05-20 16:45:34,12,Success,982195,,,Incremental
+REF-00472,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-05-19 18:33:34,2026-05-19 19:13:34,40,Success,1976798,,,Incremental
+REF-00473,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-18 18:33:34,2026-05-18 18:47:34,14,Success,961437,,,Full
+REF-00474,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-17 17:33:34,2026-05-17 17:35:34,2,Failed,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00475,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-05-16 15:33:34,2026-05-16 16:22:34,49,Success,1668986,,,Full
+REF-00476,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-05-15 13:33:34,2026-05-15 14:25:34,52,Success,368371,,,Incremental
+REF-00477,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-14 14:33:34,2026-05-14 14:45:34,12,Success,385110,,,Incremental
+REF-00478,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,API,2026-05-13 13:33:34,2026-05-13 13:47:34,14,Success,256528,,,Full
+REF-00479,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-12 13:33:34,2026-05-12 13:37:34,4,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00480,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-11 12:33:34,2026-05-11 13:04:34,31,Success,176524,,,Incremental
+REF-00481,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-10 12:33:34,2026-05-10 13:11:34,38,Success,1729919,,,Full
+REF-00482,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-09 12:33:34,2026-05-09 13:18:34,45,Success,1222348,,,Incremental
+REF-00483,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-08 14:33:34,2026-05-08 14:46:34,13,Success,1419475,,,Incremental
+REF-00484,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-07 12:33:34,2026-05-07 12:47:34,14,Success,964912,,,Full
+REF-00485,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-06 12:33:34,2026-05-06 13:00:34,27,Success,1730219,,,Incremental
+REF-00486,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-05-05 12:33:34,2026-05-05 12:43:34,10,Success,1466722,,,Incremental
+REF-00487,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-04 13:33:34,2026-05-04 14:15:34,42,Success,132021,,,Incremental
+REF-00488,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,API,2026-05-03 15:33:34,2026-05-03 16:20:34,47,Success,1278311,,,Full
+REF-00489,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-02 13:33:34,2026-05-02 13:52:34,19,Success,1111825,,,Incremental
+REF-00490,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-01 11:33:34,2026-05-01 12:09:34,36,Success,1539211,,,Full
+REF-00491,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-30 09:33:34,2026-04-30 09:54:34,21,Success,415915,,,Incremental
+REF-00492,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-29 11:33:34,2026-04-29 11:49:34,16,Success,1686807,,,Full
+REF-00493,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-28 11:33:34,2026-04-28 12:16:34,43,Success,455304,,,Full
+REF-00494,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-27 13:33:34,2026-04-27 14:08:34,35,Success,1163420,,,Incremental
+REF-00495,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-04-26 13:33:34,2026-04-26 14:12:34,39,Success,1301831,,,Full
+REF-00496,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-25 13:33:34,2026-04-25 14:06:34,33,Success,1931333,,,Full
+REF-00497,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-24 14:33:34,2026-04-24 15:10:34,37,Success,1888898,,,Incremental
+REF-00498,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-23 16:33:34,2026-04-23 16:55:34,22,Success,1194770,,,Incremental
+REF-00499,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-04-22 17:33:34,2026-04-22 17:57:34,24,Success,1686747,,,Full
+REF-00500,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-04-21 18:33:34,2026-04-21 18:37:34,4,Success,721254,,,Incremental
+REF-00501,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-20 16:33:34,2026-04-20 16:47:34,14,Success,1258207,,,Incremental
+REF-00502,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-19 16:33:34,2026-04-19 16:53:34,20,Success,877947,,,Incremental
+REF-00503,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-18 16:33:34,2026-04-18 16:55:34,22,Success,377028,,,Incremental
+REF-00504,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-17 18:33:34,2026-04-17 18:37:34,4,Success,1685677,,,Full
+REF-00505,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-16 17:33:34,2026-04-16 18:09:34,36,Success,660869,,,Incremental
+REF-00506,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-15 15:33:34,2026-04-15 15:44:34,11,Success,440308,,,Incremental
+REF-00507,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-14 13:33:34,2026-04-14 13:34:34,1,Failed,0,TIMEOUT,Authentication failed for data source,Full
+REF-00508,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-13 11:33:34,2026-04-13 12:23:34,50,Success,665319,,,Incremental
+REF-00509,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-12 12:33:34,2026-04-12 12:48:34,15,Success,610975,,,Incremental
+REF-00510,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-04-11 14:33:34,2026-04-11 14:46:34,13,Success,583858,,,Incremental
+REF-00511,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-10 16:33:34,2026-04-10 16:58:34,25,Success,1162103,,,Incremental
+REF-00512,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-09 16:33:34,2026-04-09 16:46:34,13,Success,159407,,,Incremental
+REF-00513,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-08 18:33:34,2026-04-08 18:34:34,1,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00514,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-07 16:33:34,2026-04-07 17:20:34,47,Success,1476675,,,Incremental
+REF-00515,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-04-06 17:33:34,2026-04-06 18:18:34,45,Success,1707224,,,Incremental
+REF-00516,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-05 16:33:34,2026-04-05 16:41:34,8,Success,1714672,,,Full
+REF-00517,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-04 16:33:34,2026-04-04 17:21:34,48,Success,1617453,,,Full
+REF-00518,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-03 14:33:34,2026-04-03 14:59:34,26,Success,832244,,,Incremental
+REF-00519,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-02 14:33:34,2026-04-02 14:37:34,4,Success,147080,,,Incremental
+REF-00520,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-01 15:33:34,2026-04-01 15:58:34,25,Success,1277603,,,Incremental
+REF-00521,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-31 17:33:34,2026-03-31 18:17:34,44,Success,158738,,,Incremental
+REF-00522,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-30 16:33:34,2026-03-30 16:51:34,18,Success,1159132,,,Full
+REF-00523,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-29 17:33:34,2026-03-29 18:13:34,40,Success,914183,,,Incremental
+REF-00524,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-28 15:33:34,2026-03-28 15:47:34,14,Success,1399598,,,Incremental
+REF-00525,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-27 14:33:34,2026-03-27 15:05:34,32,Warning,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00526,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-26 12:33:34,2026-03-26 13:25:34,52,Warning,0,AUTH_FAIL,Connection timeout after 300s,Full
+REF-00527,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-25 13:33:34,2026-03-25 14:24:34,51,Success,1344067,,,Incremental
+REF-00528,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-24 12:33:34,2026-03-24 13:00:34,27,Success,1300948,,,Incremental
+REF-00529,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-23 12:33:34,2026-03-23 13:26:34,53,Success,1925128,,,Incremental
+REF-00530,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-22 12:33:34,2026-03-22 13:13:34,40,Success,27027,,,Incremental
+REF-00531,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-21 12:33:34,2026-03-21 12:39:34,6,Warning,0,CAPACITY_LIMIT,Connection timeout after 300s,Full
+REF-00532,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-20 14:33:34,2026-03-20 15:20:34,47,Success,1247663,,,Incremental
+REF-00533,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-19 13:33:34,2026-03-19 13:49:34,16,Success,1399337,,,Incremental
+REF-00534,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-03-18 13:33:34,2026-03-18 13:45:34,12,Success,614967,,,Full
+REF-00535,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-17 15:33:34,2026-03-17 15:45:34,12,Success,1522758,,,Incremental
+REF-00536,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-16 16:33:34,2026-03-16 17:27:34,54,Warning,0,SCHEMA_CHANGE,Authentication failed for data source,Incremental
+REF-00537,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-15 17:33:34,2026-03-15 18:03:34,30,Success,1167732,,,Full
+REF-00538,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-14 16:33:34,2026-03-14 17:12:34,39,Success,1054710,,,Incremental
+REF-00539,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-13 15:33:34,2026-03-13 16:12:34,39,Success,779591,,,Incremental
+REF-00540,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-12 15:33:34,2026-03-12 15:34:34,1,Failed,0,CAPACITY_LIMIT,Capacity limit exceeded,Incremental
+REF-00541,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-11 14:33:34,2026-03-11 15:09:34,36,Success,1876288,,,Incremental
+REF-00542,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-10 16:33:34,2026-03-10 17:10:34,37,Success,1683733,,,Incremental
+REF-00543,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-09 14:33:34,2026-03-09 15:06:34,33,Success,962179,,,Incremental
+REF-00544,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-08 13:33:34,2026-03-08 14:27:34,54,Success,627858,,,Incremental
+REF-00545,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-07 13:33:34,2026-03-07 14:12:34,39,Success,556188,,,Full
+REF-00546,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-06 15:33:34,2026-03-06 15:54:34,21,Success,1706377,,,Incremental
+REF-00547,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-05 16:33:34,2026-03-05 17:26:34,53,Success,592691,,,Full
+REF-00548,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-04 16:33:34,2026-03-04 17:14:34,41,Success,376191,,,Incremental
+REF-00549,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-03 16:33:34,2026-03-03 16:52:34,19,Success,1651079,,,Incremental
+REF-00550,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-02 18:33:34,2026-03-02 18:41:34,8,Success,314234,,,Incremental
+REF-00551,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-01 17:33:34,2026-03-01 17:51:34,18,Success,1395519,,,Full
+REF-00552,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-28 17:33:34,2026-02-28 17:34:34,1,Failed,0,AUTH_FAIL,Authentication failed for data source,Incremental
+REF-00553,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-27 15:33:34,2026-02-27 16:19:34,46,Success,1489766,,,Incremental
+REF-00554,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Scheduled,API,2026-02-26 14:33:34,2026-02-26 14:37:34,4,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00555,DS-008,Quality Dataset,WS-001,Michigan Auto - Production,Manual,User,2026-02-25 14:33:34,2026-02-25 15:03:34,30,Success,1290281,,,Incremental
+REF-00556,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:52:34,19,Success,1382257,,,Incremental
+REF-00557,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-18 17:33:34,2026-05-18 18:13:34,40,Success,1625849,,,Incremental
+REF-00558,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-11 18:33:34,2026-05-11 18:36:34,3,Success,1420967,,,Incremental
+REF-00559,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-04 16:33:34,2026-05-04 16:36:34,3,Failed,0,TIMEOUT,Connection timeout after 300s,Full
+REF-00560,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-27 14:33:34,2026-04-27 14:49:34,16,Success,1267001,,,Full
+REF-00561,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Manual,Schedule,2026-04-20 12:33:34,2026-04-20 13:24:34,51,Warning,0,CAPACITY_LIMIT,Schema change detected in source,Incremental
+REF-00562,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-13 12:33:34,2026-04-13 13:18:34,45,Success,1973316,,,Incremental
+REF-00563,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-06 11:33:34,2026-04-06 12:18:34,45,Success,1624556,,,Incremental
+REF-00564,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-30 11:33:34,2026-03-30 12:00:34,27,Success,824933,,,Incremental
+REF-00565,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-03-23 11:33:34,2026-03-23 11:40:34,7,Success,1041215,,,Incremental
+REF-00566,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-16 10:33:34,2026-03-16 11:25:34,52,Warning,0,TIMEOUT,Authentication failed for data source,Full
+REF-00567,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-09 12:33:34,2026-03-09 13:22:34,49,Warning,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00568,DS-009,Safety Dataset,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-02 14:33:34,2026-03-02 14:53:34,20,Success,327943,,,Incremental
+REF-00569,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 17:25:34,52,Success,1039029,,,Incremental
+REF-00570,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,Schedule,2026-05-24 18:33:34,2026-05-24 18:36:34,3,Success,816195,,,Incremental
+REF-00571,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-23 16:33:34,2026-05-23 16:58:34,25,Success,709273,,,Incremental
+REF-00572,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-22 18:33:34,2026-05-22 18:57:34,24,Success,178730,,,Full
+REF-00573,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-21 19:33:34,2026-05-21 19:38:34,5,Success,815649,,,Incremental
+REF-00574,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-20 21:33:34,2026-05-20 21:58:34,25,Success,1030271,,,Incremental
+REF-00575,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-19 22:33:34,2026-05-19 23:22:34,49,Success,1253496,,,Incremental
+REF-00576,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,Schedule,2026-05-18 22:33:34,2026-05-18 23:27:34,54,Success,952265,,,Incremental
+REF-00577,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-17 22:33:34,2026-05-17 22:38:34,5,Success,860411,,,Incremental
+REF-00578,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-16 21:33:34,2026-05-16 22:10:34,37,Success,322378,,,Full
+REF-00579,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-05-15 22:33:34,2026-05-15 22:37:34,4,Success,998219,,,Full
+REF-00580,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-05-14 23:33:34,2026-05-14 23:39:34,6,Warning,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00581,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-14 01:33:34,2026-05-14 01:42:34,9,Success,249452,,,Full
+REF-00582,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,Schedule,2026-05-13 02:33:34,2026-05-13 03:27:34,54,Success,1763000,,,Incremental
+REF-00583,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,Schedule,2026-05-12 00:33:34,2026-05-12 00:56:34,23,Success,1764114,,,Full
+REF-00584,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-11 01:33:34,2026-05-11 01:43:34,10,Success,584396,,,Incremental
+REF-00585,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-09 23:33:34,2026-05-09 23:51:34,18,Success,1951282,,,Incremental
+REF-00586,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-05-08 21:33:34,2026-05-08 21:46:34,13,Success,42779,,,Full
+REF-00587,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-07 23:33:34,2026-05-08 00:13:34,40,Success,1869995,,,Incremental
+REF-00588,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-06 22:33:34,2026-05-06 22:49:34,16,Success,310076,,,Incremental
+REF-00589,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-05 23:33:34,2026-05-05 23:38:34,5,Success,1260472,,,Incremental
+REF-00590,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-04 23:33:34,2026-05-04 23:36:34,3,Success,1179603,,,Incremental
+REF-00591,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-04 01:33:34,2026-05-04 02:24:34,51,Success,1141880,,,Incremental
+REF-00592,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-03 02:33:34,2026-05-03 02:48:34,15,Success,246305,,,Incremental
+REF-00593,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-05-02 01:33:34,2026-05-02 01:46:34,13,Success,1415390,,,Incremental
+REF-00594,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-05-01 02:33:34,2026-05-01 02:57:34,24,Success,1303563,,,Full
+REF-00595,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-30 04:33:34,2026-04-30 04:47:34,14,Success,341445,,,Full
+REF-00596,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-29 05:33:34,2026-04-29 06:13:34,40,Success,1225848,,,Incremental
+REF-00597,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-28 05:33:34,2026-04-28 05:43:34,10,Success,693948,,,Incremental
+REF-00598,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-27 06:33:34,2026-04-27 06:50:34,17,Success,164202,,,Incremental
+REF-00599,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-26 07:33:34,2026-04-26 08:15:34,42,Success,964185,,,Incremental
+REF-00600,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-25 08:33:34,2026-04-25 08:53:34,20,Success,434066,,,Incremental
+REF-00601,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-24 08:33:34,2026-04-24 08:37:34,4,Failed,0,TIMEOUT,Connection timeout after 300s,Full
+REF-00602,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-04-23 06:33:34,2026-04-23 07:12:34,39,Success,1169212,,,Incremental
+REF-00603,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-22 05:33:34,2026-04-22 05:49:34,16,Success,1250635,,,Full
+REF-00604,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-21 04:33:34,2026-04-21 04:51:34,18,Success,529740,,,Incremental
+REF-00605,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,API,2026-04-20 02:33:34,2026-04-20 03:12:34,39,Success,1893770,,,Full
+REF-00606,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-19 01:33:34,2026-04-19 02:08:34,35,Success,80507,,,Incremental
+REF-00607,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-18 03:33:34,2026-04-18 03:51:34,18,Success,184255,,,Incremental
+REF-00608,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-17 04:33:34,2026-04-17 04:35:34,2,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00609,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-16 02:33:34,2026-04-16 02:37:34,4,Success,963870,,,Incremental
+REF-00610,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-15 03:33:34,2026-04-15 03:59:34,26,Success,1324517,,,Incremental
+REF-00611,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-14 05:33:34,2026-04-14 06:20:34,47,Success,708154,,,Incremental
+REF-00612,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-13 03:33:34,2026-04-13 04:26:34,53,Success,444417,,,Incremental
+REF-00613,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-04-12 05:33:34,2026-04-12 06:19:34,46,Success,773343,,,Incremental
+REF-00614,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-11 03:33:34,2026-04-11 03:35:34,2,Failed,0,AUTH_FAIL,Schema change detected in source,Full
+REF-00615,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,User,2026-04-10 03:33:34,2026-04-10 03:43:34,10,Success,1371132,,,Incremental
+REF-00616,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,User,2026-04-09 04:33:34,2026-04-09 05:24:34,51,Success,482776,,,Incremental
+REF-00617,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-08 03:33:34,2026-04-08 03:40:34,7,Success,791847,,,Incremental
+REF-00618,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,User,2026-04-07 05:33:34,2026-04-07 06:10:34,37,Success,1432515,,,Incremental
+REF-00619,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,User,2026-04-06 05:33:34,2026-04-06 06:20:34,47,Success,1706167,,,Full
+REF-00620,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,API,2026-04-05 04:33:34,2026-04-05 04:35:34,2,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00621,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,Schedule,2026-04-04 03:33:34,2026-04-04 03:49:34,16,Success,1101961,,,Incremental
+REF-00622,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-03 01:33:34,2026-04-03 02:06:34,33,Success,737083,,,Full
+REF-00623,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-02 02:33:34,2026-04-02 03:09:34,36,Success,1361975,,,Incremental
+REF-00624,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-04-01 02:33:34,2026-04-01 03:18:34,45,Success,1471428,,,Incremental
+REF-00625,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-31 00:33:34,2026-03-31 00:35:34,2,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00626,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-30 01:33:34,2026-03-30 02:05:34,32,Success,358888,,,Incremental
+REF-00627,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-03-29 02:33:34,2026-03-29 03:21:34,48,Success,1463031,,,Full
+REF-00628,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-28 04:33:34,2026-03-28 04:35:34,2,Failed,0,TIMEOUT,Schema change detected in source,Incremental
+REF-00629,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-27 04:33:34,2026-03-27 04:35:34,2,Failed,0,TIMEOUT,Capacity limit exceeded,Incremental
+REF-00630,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,OnDemand,Schedule,2026-03-26 03:33:34,2026-03-26 03:45:34,12,Success,19005,,,Incremental
+REF-00631,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,API,2026-03-25 03:33:34,2026-03-25 03:54:34,21,Success,1989731,,,Incremental
+REF-00632,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-24 01:33:34,2026-03-24 02:04:34,31,Success,720272,,,Incremental
+REF-00633,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-23 02:33:34,2026-03-23 02:43:34,10,Success,656095,,,Full
+REF-00634,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-22 02:33:34,2026-03-22 03:14:34,41,Success,1354930,,,Incremental
+REF-00635,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-21 02:33:34,2026-03-21 02:41:34,8,Success,1139132,,,Incremental
+REF-00636,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-20 00:33:34,2026-03-20 01:07:34,34,Success,676386,,,Full
+REF-00637,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-19 00:33:34,2026-03-19 01:21:34,48,Success,1800556,,,Full
+REF-00638,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-18 00:33:34,2026-03-18 01:04:34,31,Success,1843543,,,Incremental
+REF-00639,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,API,2026-03-16 23:33:34,2026-03-16 23:54:34,21,Success,353493,,,Incremental
+REF-00640,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-15 22:33:34,2026-03-15 23:14:34,41,Warning,0,AUTH_FAIL,Schema change detected in source,Incremental
+REF-00641,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-15 00:33:34,2026-03-15 01:13:34,40,Success,1595686,,,Incremental
+REF-00642,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-14 00:33:34,2026-03-14 01:11:34,38,Success,979135,,,Full
+REF-00643,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-13 01:33:34,2026-03-13 01:54:34,21,Success,1171543,,,Incremental
+REF-00644,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-11 23:33:34,2026-03-12 00:11:34,38,Success,1561590,,,Full
+REF-00645,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-10 23:33:34,2026-03-11 00:16:34,43,Success,1759534,,,Incremental
+REF-00646,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-09 23:33:34,2026-03-10 00:07:34,34,Success,1911683,,,Full
+REF-00647,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-08 23:33:34,2026-03-08 23:40:34,7,Success,1265966,,,Incremental
+REF-00648,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-07 23:33:34,2026-03-08 00:06:34,33,Success,1465937,,,Incremental
+REF-00649,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-07 01:33:34,2026-03-07 01:46:34,13,Success,1229817,,,Incremental
+REF-00650,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-06 02:33:34,2026-03-06 02:39:34,6,Success,581831,,,Incremental
+REF-00651,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-03-05 04:33:34,2026-03-05 05:09:34,36,Success,1349967,,,Incremental
+REF-00652,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-04 05:33:34,2026-03-04 06:14:34,41,Success,1588376,,,Incremental
+REF-00653,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-03 05:33:34,2026-03-03 06:20:34,47,Success,1453567,,,Incremental
+REF-00654,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-03-02 06:33:34,2026-03-02 06:54:34,21,Warning,0,TIMEOUT,Capacity limit exceeded,Full
+REF-00655,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Manual,Schedule,2026-03-01 07:33:34,2026-03-01 07:48:34,15,Success,1677459,,,Incremental
+REF-00656,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-02-28 05:33:34,2026-02-28 06:21:34,48,Success,1165767,,,Incremental
+REF-00657,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-02-27 07:33:34,2026-02-27 07:37:34,4,Success,1015622,,,Full
+REF-00658,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-02-26 06:33:34,2026-02-26 07:14:34,41,Success,1107064,,,Incremental
+REF-00659,DS-010,Executive Summary Dataset,WS-007,Michigan Auto - Executive,Scheduled,Schedule,2026-02-25 08:33:34,2026-02-25 08:43:34,10,Success,476318,,,Incremental
+REF-00660,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:41:34,8,Success,900880,,,Full
+REF-00661,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-24 15:33:34,2026-05-24 15:38:34,5,Success,421777,,,Incremental
+REF-00662,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-23 17:33:34,2026-05-23 17:52:34,19,Success,100767,,,Incremental
+REF-00663,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-05-22 19:33:34,2026-05-22 19:49:34,16,Success,1242292,,,Incremental
+REF-00664,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-05-21 21:33:34,2026-05-21 21:53:34,20,Warning,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00665,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-20 22:33:34,2026-05-20 22:40:34,7,Success,217839,,,Incremental
+REF-00666,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-19 23:33:34,2026-05-19 23:46:34,13,Success,1900918,,,Incremental
+REF-00667,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-19 00:33:34,2026-05-19 01:21:34,48,Success,1005550,,,Incremental
+REF-00668,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-18 02:33:34,2026-05-18 02:58:34,25,Success,806110,,,Incremental
+REF-00669,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-17 02:33:34,2026-05-17 03:09:34,36,Success,295028,,,Full
+REF-00670,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-16 04:33:34,2026-05-16 04:34:34,1,Failed,0,SCHEMA_CHANGE,Authentication failed for data source,Incremental
+REF-00671,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-05-15 05:33:34,2026-05-15 05:54:34,21,Success,1803831,,,Incremental
+REF-00672,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-14 04:33:34,2026-05-14 04:59:34,26,Success,386013,,,Incremental
+REF-00673,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-13 03:33:34,2026-05-13 04:18:34,45,Success,1428762,,,Incremental
+REF-00674,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-05-12 01:33:34,2026-05-12 02:23:34,50,Success,1950474,,,Incremental
+REF-00675,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,OnDemand,Schedule,2026-05-11 02:33:34,2026-05-11 03:14:34,41,Success,1780058,,,Incremental
+REF-00676,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-10 01:33:34,2026-05-10 02:21:34,48,Success,1616360,,,Incremental
+REF-00677,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,OnDemand,API,2026-05-09 00:33:34,2026-05-09 01:18:34,45,Success,1274929,,,Incremental
+REF-00678,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-08 01:33:34,2026-05-08 01:42:34,9,Success,266251,,,Incremental
+REF-00679,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-07 02:33:34,2026-05-07 02:39:34,6,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00680,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-06 02:33:34,2026-05-06 03:15:34,42,Success,1317013,,,Incremental
+REF-00681,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-05 01:33:34,2026-05-05 01:48:34,15,Success,625646,,,Full
+REF-00682,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-04 01:33:34,2026-05-04 02:10:34,37,Success,1156345,,,Incremental
+REF-00683,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-03 03:33:34,2026-05-03 03:56:34,23,Success,1798607,,,Full
+REF-00684,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-05-02 01:33:34,2026-05-02 02:25:34,52,Success,645530,,,Incremental
+REF-00685,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-05-01 01:33:34,2026-05-01 02:07:34,34,Success,1612247,,,Incremental
+REF-00686,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-04-29 23:33:34,2026-04-30 00:06:34,33,Success,1189135,,,Incremental
+REF-00687,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-28 22:33:34,2026-04-28 23:00:34,27,Success,1303816,,,Full
+REF-00688,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-28 00:33:34,2026-04-28 00:44:34,11,Success,1765178,,,Incremental
+REF-00689,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,OnDemand,Schedule,2026-04-27 00:33:34,2026-04-27 01:03:34,30,Success,733817,,,Full
+REF-00690,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-04-26 01:33:34,2026-04-26 02:17:34,44,Success,664520,,,Full
+REF-00691,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-25 01:33:34,2026-04-25 01:37:34,4,Success,1139141,,,Incremental
+REF-00692,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-23 23:33:34,2026-04-24 00:02:34,29,Success,569140,,,Full
+REF-00693,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-22 23:33:34,2026-04-23 00:00:34,27,Success,686166,,,Full
+REF-00694,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-22 00:33:34,2026-04-22 01:08:34,35,Success,1711749,,,Incremental
+REF-00695,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,API,2026-04-21 00:33:34,2026-04-21 00:48:34,15,Success,1052183,,,Full
+REF-00696,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-19 22:33:34,2026-04-19 22:52:34,19,Success,109680,,,Incremental
+REF-00697,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-18 20:33:34,2026-04-18 20:41:34,8,Success,1515140,,,Incremental
+REF-00698,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-17 22:33:34,2026-04-17 23:09:34,36,Success,1006710,,,Full
+REF-00699,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-16 22:33:34,2026-04-16 22:55:34,22,Success,917879,,,Incremental
+REF-00700,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-15 22:33:34,2026-04-15 23:05:34,32,Success,1418363,,,Full
+REF-00701,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,API,2026-04-14 20:33:34,2026-04-14 21:12:34,39,Success,1056905,,,Incremental
+REF-00702,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-04-13 19:33:34,2026-04-13 20:16:34,43,Success,1127193,,,Incremental
+REF-00703,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-12 17:33:34,2026-04-12 17:39:34,6,Success,1105278,,,Full
+REF-00704,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,User,2026-04-11 17:33:34,2026-04-11 18:02:34,29,Success,678264,,,Incremental
+REF-00705,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-10 16:33:34,2026-04-10 16:54:34,21,Success,1364849,,,Full
+REF-00706,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-09 17:33:34,2026-04-09 17:37:34,4,Success,525032,,,Incremental
+REF-00707,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-08 16:33:34,2026-04-08 16:38:34,5,Success,433604,,,Full
+REF-00708,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,API,2026-04-07 16:33:34,2026-04-07 16:47:34,14,Success,1361182,,,Incremental
+REF-00709,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-06 18:33:34,2026-04-06 18:56:34,23,Success,1271646,,,Incremental
+REF-00710,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-04-05 18:33:34,2026-04-05 18:41:34,8,Success,842349,,,Full
+REF-00711,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-04 20:33:34,2026-04-04 21:08:34,35,Success,1966507,,,Incremental
+REF-00712,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-04-03 18:33:34,2026-04-03 18:41:34,8,Success,509283,,,Incremental
+REF-00713,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-04-02 16:33:34,2026-04-02 17:27:34,54,Success,1579454,,,Full
+REF-00714,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-04-01 18:33:34,2026-04-01 18:53:34,20,Success,931646,,,Full
+REF-00715,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-31 16:33:34,2026-03-31 16:43:34,10,Success,673727,,,Full
+REF-00716,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-30 16:33:34,2026-03-30 16:45:34,12,Success,771262,,,Incremental
+REF-00717,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-29 14:33:34,2026-03-29 15:18:34,45,Warning,0,CAPACITY_LIMIT,Authentication failed for data source,Full
+REF-00718,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-03-28 13:33:34,2026-03-28 14:20:34,47,Success,770962,,,Incremental
+REF-00719,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-03-27 14:33:34,2026-03-27 15:00:34,27,Success,26496,,,Incremental
+REF-00720,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-26 14:33:34,2026-03-26 15:28:34,55,Success,1596847,,,Incremental
+REF-00721,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-25 13:33:34,2026-03-25 14:27:34,54,Success,1617972,,,Full
+REF-00722,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-03-24 15:33:34,2026-03-24 16:07:34,34,Success,997950,,,Incremental
+REF-00723,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-23 14:33:34,2026-03-23 15:28:34,55,Success,220544,,,Incremental
+REF-00724,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-22 14:33:34,2026-03-22 15:22:34,49,Success,1715882,,,Incremental
+REF-00725,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-21 16:33:34,2026-03-21 16:47:34,14,Success,1331533,,,Full
+REF-00726,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-20 17:33:34,2026-03-20 17:56:34,23,Success,1217559,,,Incremental
+REF-00727,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-19 18:33:34,2026-03-19 19:19:34,46,Success,870495,,,Incremental
+REF-00728,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-18 19:33:34,2026-03-18 20:19:34,46,Success,1253653,,,Full
+REF-00729,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-17 18:33:34,2026-03-17 19:01:34,28,Success,1847923,,,Incremental
+REF-00730,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-16 20:33:34,2026-03-16 21:11:34,38,Success,1367081,,,Full
+REF-00731,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-15 19:33:34,2026-03-15 20:20:34,47,Success,1796418,,,Incremental
+REF-00732,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-03-14 19:33:34,2026-03-14 19:35:34,2,Failed,0,SCHEMA_CHANGE,Authentication failed for data source,Incremental
+REF-00733,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-13 18:33:34,2026-03-13 19:07:34,34,Success,258538,,,Incremental
+REF-00734,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-03-12 18:33:34,2026-03-12 19:07:34,34,Success,811266,,,Incremental
+REF-00735,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-11 18:33:34,2026-03-11 18:48:34,15,Success,887303,,,Full
+REF-00736,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-10 18:33:34,2026-03-10 19:04:34,31,Success,1912805,,,Incremental
+REF-00737,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-09 20:33:34,2026-03-09 20:56:34,23,Success,1463375,,,Incremental
+REF-00738,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-08 19:33:34,2026-03-08 19:52:34,19,Success,163208,,,Incremental
+REF-00739,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,API,2026-03-07 20:33:34,2026-03-07 20:58:34,25,Success,1281659,,,Incremental
+REF-00740,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,API,2026-03-06 22:33:34,2026-03-06 23:15:34,42,Warning,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00741,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,User,2026-03-06 00:33:34,2026-03-06 00:52:34,19,Success,366235,,,Incremental
+REF-00742,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-05 01:33:34,2026-03-05 02:09:34,36,Warning,0,TIMEOUT,Capacity limit exceeded,Incremental
+REF-00743,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-03-04 01:33:34,2026-03-04 02:03:34,30,Success,603337,,,Incremental
+REF-00744,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-03 01:33:34,2026-03-03 02:03:34,30,Success,1882068,,,Incremental
+REF-00745,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-02 02:33:34,2026-03-02 03:18:34,45,Success,1345156,,,Full
+REF-00746,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-03-01 03:33:34,2026-03-01 04:06:34,33,Success,555729,,,Full
+REF-00747,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-02-28 02:33:34,2026-02-28 02:37:34,4,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00748,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-02-27 03:33:34,2026-02-27 03:47:34,14,Success,1761024,,,Full
+REF-00749,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Scheduled,Schedule,2026-02-26 01:33:34,2026-02-26 01:36:34,3,Success,1113134,,,Incremental
+REF-00750,DS-011,Finance Consolidated,WS-006,Michigan Auto - Finance,Manual,Schedule,2026-02-25 02:33:34,2026-02-25 03:19:34,46,Success,207772,,,Incremental
+REF-00751,DS-013,Dev - FAR Test,WS-008,Michigan Auto - Dev,OnDemand,Schedule,2026-05-25 16:33:34,2026-05-25 17:13:34,40,Success,1958565,,,Full
+REF-00752,DS-013,Dev - FAR Test,WS-008,Michigan Auto - Dev,Scheduled,Schedule,2026-04-25 18:33:34,2026-04-25 19:21:34,48,Success,1393154,,,Full
+REF-00753,DS-013,Dev - FAR Test,WS-008,Michigan Auto - Dev,Scheduled,Schedule,2026-03-26 20:33:34,2026-03-26 20:38:34,5,Success,1386094,,,Incremental
+REF-00754,DS-013,Dev - FAR Test,WS-008,Michigan Auto - Dev,Scheduled,Schedule,2026-02-24 18:33:34,2026-02-24 19:27:34,54,Success,1359819,,,Incremental
+REF-00755,DS-015,Dev - Maintenance Test,WS-008,Michigan Auto - Dev,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 17:00:34,27,Success,204093,,,Incremental
+REF-00756,DS-015,Dev - Maintenance Test,WS-008,Michigan Auto - Dev,Scheduled,Schedule,2026-04-25 15:33:34,2026-04-25 15:46:34,13,Success,824749,,,Incremental
+REF-00757,DS-015,Dev - Maintenance Test,WS-008,Michigan Auto - Dev,Scheduled,User,2026-03-26 16:33:34,2026-03-26 16:37:34,4,Failed,0,CAPACITY_LIMIT,Authentication failed for data source,Incremental
+REF-00758,DS-015,Dev - Maintenance Test,WS-008,Michigan Auto - Dev,Scheduled,User,2026-02-24 18:33:34,2026-02-24 19:08:34,35,Success,429160,,,Incremental
+REF-00759,DS-016,UAT - FAR,WS-009,Michigan Auto - UAT,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:41:34,8,Success,1596475,,,Full
+REF-00760,DS-016,UAT - FAR,WS-009,Michigan Auto - UAT,OnDemand,Schedule,2026-04-25 15:33:34,2026-04-25 15:57:34,24,Warning,0,AUTH_FAIL,Schema change detected in source,Incremental
+REF-00761,DS-016,UAT - FAR,WS-009,Michigan Auto - UAT,Scheduled,Schedule,2026-03-26 13:33:34,2026-03-26 14:09:34,36,Success,186098,,,Incremental
+REF-00762,DS-017,UAT - 8:15,WS-009,Michigan Auto - UAT,Manual,Schedule,2026-05-25 16:33:34,2026-05-25 16:44:34,11,Success,1445110,,,Incremental
+REF-00763,DS-017,UAT - 8:15,WS-009,Michigan Auto - UAT,Manual,Schedule,2026-04-25 16:33:34,2026-04-25 17:11:34,38,Success,170500,,,Incremental
+REF-00764,DS-017,UAT - 8:15,WS-009,Michigan Auto - UAT,Scheduled,Schedule,2026-03-26 15:33:34,2026-03-26 16:22:34,49,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00765,DS-017,UAT - 8:15,WS-009,Michigan Auto - UAT,Scheduled,Schedule,2026-02-24 17:33:34,2026-02-24 18:05:34,32,Success,386548,,,Full
+REF-00766,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:55:34,22,Success,668393,,,Incremental
+REF-00767,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-05-24 14:33:34,2026-05-24 14:57:34,24,Success,1935420,,,Full
+REF-00768,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-23 12:33:34,2026-05-23 13:19:34,46,Success,232991,,,Incremental
+REF-00769,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-05-22 14:33:34,2026-05-22 15:06:34,33,Success,975031,,,Incremental
+REF-00770,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-21 12:33:34,2026-05-21 12:55:34,22,Success,1307087,,,Incremental
+REF-00771,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-20 11:33:34,2026-05-20 11:41:34,8,Success,272331,,,Incremental
+REF-00772,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-19 12:33:34,2026-05-19 12:49:34,16,Success,1018975,,,Incremental
+REF-00773,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-18 10:33:34,2026-05-18 10:55:34,22,Success,1624222,,,Full
+REF-00774,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-17 11:33:34,2026-05-17 12:23:34,50,Success,1483455,,,Full
+REF-00775,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-16 10:33:34,2026-05-16 10:48:34,15,Success,628306,,,Full
+REF-00776,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-05-15 12:33:34,2026-05-15 13:03:34,30,Warning,0,SCHEMA_CHANGE,Authentication failed for data source,Incremental
+REF-00777,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-14 12:33:34,2026-05-14 12:37:34,4,Failed,0,CAPACITY_LIMIT,Capacity limit exceeded,Incremental
+REF-00778,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-13 13:33:34,2026-05-13 14:09:34,36,Success,49887,,,Full
+REF-00779,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-12 12:33:34,2026-05-12 12:43:34,10,Success,1047647,,,Incremental
+REF-00780,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-11 11:33:34,2026-05-11 11:35:34,2,Failed,0,AUTH_FAIL,Authentication failed for data source,Incremental
+REF-00781,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-05-10 09:33:34,2026-05-10 10:21:34,48,Success,1387741,,,Incremental
+REF-00782,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-09 08:33:34,2026-05-09 09:19:34,46,Success,1378392,,,Incremental
+REF-00783,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-08 09:33:34,2026-05-08 09:54:34,21,Success,1458497,,,Full
+REF-00784,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-05-07 10:33:34,2026-05-07 11:07:34,34,Success,221610,,,Incremental
+REF-00785,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-06 11:33:34,2026-05-06 11:39:34,6,Success,48022,,,Incremental
+REF-00786,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-05 12:33:34,2026-05-05 13:08:34,35,Success,77045,,,Full
+REF-00787,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-05-04 13:33:34,2026-05-04 14:07:34,34,Success,550692,,,Incremental
+REF-00788,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-03 11:33:34,2026-05-03 11:45:34,12,Success,1799726,,,Incremental
+REF-00789,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-05-02 13:33:34,2026-05-02 14:04:34,31,Success,1685596,,,Full
+REF-00790,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-05-01 15:33:34,2026-05-01 16:15:34,42,Success,1650300,,,Incremental
+REF-00791,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,User,2026-04-30 13:33:34,2026-04-30 13:43:34,10,Warning,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00792,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-29 11:33:34,2026-04-29 11:42:34,9,Success,333581,,,Full
+REF-00793,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-28 12:33:34,2026-04-28 13:02:34,29,Success,1623169,,,Incremental
+REF-00794,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-27 12:33:34,2026-04-27 12:46:34,13,Success,188748,,,Incremental
+REF-00795,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-26 13:33:34,2026-04-26 14:24:34,51,Success,1120757,,,Incremental
+REF-00796,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-25 12:33:34,2026-04-25 13:05:34,32,Success,1797592,,,Incremental
+REF-00797,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-24 11:33:34,2026-04-24 12:21:34,48,Success,1700822,,,Incremental
+REF-00798,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-23 10:33:34,2026-04-23 10:46:34,13,Success,920315,,,Incremental
+REF-00799,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-04-22 11:33:34,2026-04-22 11:39:34,6,Success,1334577,,,Incremental
+REF-00800,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-21 11:33:34,2026-04-21 12:19:34,46,Success,1479663,,,Incremental
+REF-00801,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-20 11:33:34,2026-04-20 11:35:34,2,Failed,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00802,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-19 10:33:34,2026-04-19 11:27:34,54,Success,1649056,,,Incremental
+REF-00803,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-18 12:33:34,2026-04-18 12:37:34,4,Failed,0,TIMEOUT,Capacity limit exceeded,Full
+REF-00804,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-17 14:33:34,2026-04-17 14:55:34,22,Success,1103320,,,Full
+REF-00805,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-16 12:33:34,2026-04-16 12:51:34,18,Success,1755310,,,Incremental
+REF-00806,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-15 14:33:34,2026-04-15 14:59:34,26,Success,554748,,,Full
+REF-00807,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-14 16:33:34,2026-04-14 17:12:34,39,Success,1555304,,,Full
+REF-00808,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-13 14:33:34,2026-04-13 15:16:34,43,Success,1405697,,,Incremental
+REF-00809,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-12 14:33:34,2026-04-12 15:28:34,55,Success,1509158,,,Incremental
+REF-00810,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-11 15:33:34,2026-04-11 16:13:34,40,Warning,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00811,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-10 14:33:34,2026-04-10 15:03:34,30,Success,1873339,,,Full
+REF-00812,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-04-09 12:33:34,2026-04-09 13:11:34,38,Success,1098306,,,Incremental
+REF-00813,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-04-08 11:33:34,2026-04-08 12:20:34,47,Success,1962523,,,Incremental
+REF-00814,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,API,2026-04-07 12:33:34,2026-04-07 13:07:34,34,Success,1501390,,,Incremental
+REF-00815,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-06 10:33:34,2026-04-06 11:05:34,32,Success,1002698,,,Incremental
+REF-00816,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-05 12:33:34,2026-04-05 13:02:34,29,Success,241391,,,Full
+REF-00817,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-04 13:33:34,2026-04-04 13:36:34,3,Failed,0,SCHEMA_CHANGE,Connection timeout after 300s,Incremental
+REF-00818,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-03 15:33:34,2026-04-03 15:55:34,22,Success,1874488,,,Incremental
+REF-00819,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-04-02 17:33:34,2026-04-02 17:34:34,1,Failed,0,AUTH_FAIL,Authentication failed for data source,Incremental
+REF-00820,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-04-01 16:33:34,2026-04-01 17:22:34,49,Success,1758360,,,Incremental
+REF-00821,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-31 15:33:34,2026-03-31 16:18:34,45,Success,951777,,,Full
+REF-00822,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-30 13:33:34,2026-03-30 14:02:34,29,Success,822090,,,Incremental
+REF-00823,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-03-29 12:33:34,2026-03-29 13:17:34,44,Success,195660,,,Incremental
+REF-00824,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-28 12:33:34,2026-03-28 12:43:34,10,Success,1360385,,,Incremental
+REF-00825,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-27 10:33:34,2026-03-27 11:12:34,39,Success,1104197,,,Incremental
+REF-00826,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,OnDemand,Schedule,2026-03-26 12:33:34,2026-03-26 13:10:34,37,Success,386949,,,Full
+REF-00827,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-25 10:33:34,2026-03-25 11:27:34,54,Success,1128922,,,Full
+REF-00828,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-24 12:33:34,2026-03-24 12:47:34,14,Success,880184,,,Incremental
+REF-00829,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-23 14:33:34,2026-03-23 15:10:34,37,Success,362648,,,Incremental
+REF-00830,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-22 15:33:34,2026-03-22 16:02:34,29,Success,1433145,,,Incremental
+REF-00831,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-21 17:33:34,2026-03-21 17:55:34,22,Success,827762,,,Incremental
+REF-00832,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-20 17:33:34,2026-03-20 18:28:34,55,Success,1896391,,,Incremental
+REF-00833,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-03-19 15:33:34,2026-03-19 16:08:34,35,Success,1587876,,,Full
+REF-00834,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-18 15:33:34,2026-03-18 16:02:34,29,Success,147275,,,Full
+REF-00835,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-17 17:33:34,2026-03-17 18:13:34,40,Success,1425781,,,Incremental
+REF-00836,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-16 18:33:34,2026-03-16 19:02:34,29,Success,945292,,,Full
+REF-00837,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,API,2026-03-15 19:33:34,2026-03-15 19:46:34,13,Success,1650022,,,Incremental
+REF-00838,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-14 17:33:34,2026-03-14 17:36:34,3,Success,1714237,,,Full
+REF-00839,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-13 18:33:34,2026-03-13 18:36:34,3,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00840,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-12 16:33:34,2026-03-12 16:54:34,21,Success,105388,,,Full
+REF-00841,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-11 18:33:34,2026-03-11 18:43:34,10,Success,1751680,,,Full
+REF-00842,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-10 17:33:34,2026-03-10 18:08:34,35,Success,1692034,,,Incremental
+REF-00843,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-09 17:33:34,2026-03-09 18:21:34,48,Success,959418,,,Incremental
+REF-00844,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-08 18:33:34,2026-03-08 19:14:34,41,Success,698824,,,Incremental
+REF-00845,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-07 20:33:34,2026-03-07 20:36:34,3,Success,1900467,,,Incremental
+REF-00846,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-06 19:33:34,2026-03-06 20:10:34,37,Success,180181,,,Full
+REF-00847,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-05 21:33:34,2026-03-05 22:28:34,55,Success,1418474,,,Incremental
+REF-00848,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-04 20:33:34,2026-03-04 20:58:34,25,Success,821075,,,Incremental
+REF-00849,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-03 22:33:34,2026-03-03 22:35:34,2,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00850,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-02 22:33:34,2026-03-02 23:28:34,55,Success,1296482,,,Full
+REF-00851,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-03-01 21:33:34,2026-03-01 21:38:34,5,Success,598788,,,Incremental
+REF-00852,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-02-28 23:33:34,2026-03-01 00:28:34,55,Success,1348897,,,Incremental
+REF-00853,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-02-27 22:33:34,2026-02-27 22:48:34,15,Success,1393781,,,Incremental
+REF-00854,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,User,2026-02-26 23:33:34,2026-02-27 00:23:34,50,Success,146418,,,Incremental
+REF-00855,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Scheduled,Schedule,2026-02-25 21:33:34,2026-02-25 21:53:34,20,Success,412341,,,Incremental
+REF-00856,DS-018,Inventory & Parts,WS-004,Michigan Auto - Maintenance,Manual,Schedule,2026-02-24 19:33:34,2026-02-24 20:19:34,46,Success,1184648,,,Incremental
+REF-00857,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-25 16:33:34,2026-05-25 16:56:34,23,Success,917119,,,Full
+REF-00858,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-05-24 14:33:34,2026-05-24 14:59:34,26,Success,1094766,,,Full
+REF-00859,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-23 14:33:34,2026-05-23 15:10:34,37,Success,951330,,,Incremental
+REF-00860,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-05-22 12:33:34,2026-05-22 13:23:34,50,Success,483176,,,Full
+REF-00861,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-21 13:33:34,2026-05-21 13:57:34,24,Success,661807,,,Full
+REF-00862,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-20 12:33:34,2026-05-20 13:13:34,40,Success,1681893,,,Full
+REF-00863,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-19 14:33:34,2026-05-19 14:57:34,24,Success,1755915,,,Incremental
+REF-00864,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-18 16:33:34,2026-05-18 17:15:34,42,Success,929662,,,Incremental
+REF-00865,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-17 18:33:34,2026-05-17 18:38:34,5,Success,801454,,,Full
+REF-00866,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-16 19:33:34,2026-05-16 19:34:34,1,Failed,0,TIMEOUT,Authentication failed for data source,Incremental
+REF-00867,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-15 19:33:34,2026-05-15 20:01:34,28,Success,210970,,,Incremental
+REF-00868,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-05-14 17:33:34,2026-05-14 17:37:34,4,Failed,0,AUTH_FAIL,Connection timeout after 300s,Incremental
+REF-00869,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-13 19:33:34,2026-05-13 19:57:34,24,Success,1242733,,,Incremental
+REF-00870,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-12 21:33:34,2026-05-12 21:48:34,15,Success,1906601,,,Full
+REF-00871,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-11 20:33:34,2026-05-11 21:15:34,42,Success,942444,,,Full
+REF-00872,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-05-10 21:33:34,2026-05-10 22:03:34,30,Success,1086102,,,Incremental
+REF-00873,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-09 19:33:34,2026-05-09 19:45:34,12,Success,994662,,,Incremental
+REF-00874,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-08 21:33:34,2026-05-08 22:18:34,45,Success,1432498,,,Incremental
+REF-00875,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-07 19:33:34,2026-05-07 20:03:34,30,Success,731034,,,Incremental
+REF-00876,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,API,2026-05-06 21:33:34,2026-05-06 22:18:34,45,Success,1007667,,,Incremental
+REF-00877,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-05 21:33:34,2026-05-05 22:12:34,39,Success,713931,,,Full
+REF-00878,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-04 20:33:34,2026-05-04 20:38:34,5,Success,1050042,,,Full
+REF-00879,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-03 21:33:34,2026-05-03 21:49:34,16,Success,511259,,,Incremental
+REF-00880,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-05-02 20:33:34,2026-05-02 20:47:34,14,Success,1742424,,,Full
+REF-00881,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-05-01 22:33:34,2026-05-01 22:45:34,12,Success,619382,,,Incremental
+REF-00882,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-30 22:33:34,2026-04-30 22:48:34,15,Success,424869,,,Full
+REF-00883,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-29 23:33:34,2026-04-30 00:11:34,38,Success,525824,,,Incremental
+REF-00884,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-29 01:33:34,2026-04-29 01:44:34,11,Warning,0,TIMEOUT,Capacity limit exceeded,Incremental
+REF-00885,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-28 02:33:34,2026-04-28 02:59:34,26,Success,1396026,,,Incremental
+REF-00886,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-27 00:33:34,2026-04-27 01:21:34,48,Success,147106,,,Full
+REF-00887,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-26 01:33:34,2026-04-26 02:00:34,27,Success,1466165,,,Incremental
+REF-00888,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-25 02:33:34,2026-04-25 03:24:34,51,Success,1301904,,,Full
+REF-00889,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-24 03:33:34,2026-04-24 03:39:34,6,Success,1330071,,,Incremental
+REF-00890,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-23 01:33:34,2026-04-23 01:49:34,16,Success,1535255,,,Incremental
+REF-00891,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Manual,Schedule,2026-04-22 03:33:34,2026-04-22 04:00:34,27,Success,1585607,,,Incremental
+REF-00892,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-21 01:33:34,2026-04-21 01:56:34,23,Success,1504193,,,Incremental
+REF-00893,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-20 00:33:34,2026-04-20 01:13:34,40,Success,850844,,,Incremental
+REF-00894,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Manual,Schedule,2026-04-19 01:33:34,2026-04-19 01:48:34,15,Success,958080,,,Incremental
+REF-00895,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-18 00:33:34,2026-04-18 00:59:34,26,Success,543786,,,Full
+REF-00896,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-16 23:33:34,2026-04-16 23:50:34,17,Success,1234657,,,Incremental
+REF-00897,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-15 22:33:34,2026-04-15 23:02:34,29,Success,780728,,,Incremental
+REF-00898,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-14 23:33:34,2026-04-14 23:52:34,19,Success,1363407,,,Full
+REF-00899,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-04-13 21:33:34,2026-04-13 22:17:34,44,Success,173911,,,Full
+REF-00900,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-12 23:33:34,2026-04-13 00:10:34,37,Success,430073,,,Full
+REF-00901,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-04-11 23:33:34,2026-04-12 00:14:34,41,Success,299124,,,Incremental
+REF-00902,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-10 23:33:34,2026-04-10 23:36:34,3,Failed,0,AUTH_FAIL,Authentication failed for data source,Incremental
+REF-00903,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,OnDemand,User,2026-04-10 01:33:34,2026-04-10 02:08:34,35,Success,1606269,,,Full
+REF-00904,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-09 02:33:34,2026-04-09 03:09:34,36,Success,1241035,,,Incremental
+REF-00905,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-08 01:33:34,2026-04-08 01:41:34,8,Success,666565,,,Incremental
+REF-00906,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-07 00:33:34,2026-04-07 01:04:34,31,Success,1798753,,,Incremental
+REF-00907,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-06 01:33:34,2026-04-06 02:23:34,50,Success,30302,,,Incremental
+REF-00908,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-05 02:33:34,2026-04-05 03:19:34,46,Success,1588371,,,Incremental
+REF-00909,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-04 02:33:34,2026-04-04 03:12:34,39,Success,1657014,,,Incremental
+REF-00910,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Manual,Schedule,2026-04-03 02:33:34,2026-04-03 03:27:34,54,Success,1274588,,,Incremental
+REF-00911,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-04-02 01:33:34,2026-04-02 02:01:34,28,Success,143607,,,Full
+REF-00912,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-31 23:33:34,2026-04-01 00:16:34,43,Success,1886413,,,Incremental
+REF-00913,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-31 00:33:34,2026-03-31 01:14:34,41,Warning,0,TIMEOUT,Capacity limit exceeded,Full
+REF-00914,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-30 01:33:34,2026-03-30 02:09:34,36,Success,156757,,,Full
+REF-00915,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-29 01:33:34,2026-03-29 02:02:34,29,Success,830207,,,Incremental
+REF-00916,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-28 00:33:34,2026-03-28 01:00:34,27,Success,1904960,,,Full
+REF-00917,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-26 23:33:34,2026-03-27 00:18:34,45,Success,1005685,,,Incremental
+REF-00918,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-26 00:33:34,2026-03-26 01:19:34,46,Success,972501,,,Full
+REF-00919,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-25 02:33:34,2026-03-25 03:14:34,41,Success,1703588,,,Incremental
+REF-00920,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-24 01:33:34,2026-03-24 02:12:34,39,Success,91966,,,Incremental
+REF-00921,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-23 00:33:34,2026-03-23 01:21:34,48,Success,1671671,,,Incremental
+REF-00922,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-22 01:33:34,2026-03-22 01:47:34,14,Success,1897362,,,Incremental
+REF-00923,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-21 02:33:34,2026-03-21 02:42:34,9,Success,835336,,,Incremental
+REF-00924,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,User,2026-03-20 03:33:34,2026-03-20 04:16:34,43,Success,1137717,,,Incremental
+REF-00925,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,API,2026-03-19 04:33:34,2026-03-19 05:02:34,29,Success,1607737,,,Full
+REF-00926,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-18 06:33:34,2026-03-18 07:25:34,52,Success,693699,,,Full
+REF-00927,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-17 08:33:34,2026-03-17 08:40:34,7,Success,1349800,,,Incremental
+REF-00928,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-16 07:33:34,2026-03-16 08:01:34,28,Success,89219,,,Incremental
+REF-00929,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-15 07:33:34,2026-03-15 08:05:34,32,Success,1026613,,,Incremental
+REF-00930,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-14 06:33:34,2026-03-14 06:35:34,2,Failed,0,TIMEOUT,Connection timeout after 300s,Incremental
+REF-00931,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-13 05:33:34,2026-03-13 06:18:34,45,Success,1611362,,,Incremental
+REF-00932,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-12 06:33:34,2026-03-12 06:38:34,5,Success,1882101,,,Incremental
+REF-00933,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-11 04:33:34,2026-03-11 05:21:34,48,Success,1394205,,,Incremental
+REF-00934,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-10 06:33:34,2026-03-10 06:39:34,6,Success,1629860,,,Full
+REF-00935,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-09 07:33:34,2026-03-09 07:37:34,4,Success,894332,,,Incremental
+REF-00936,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-08 09:33:34,2026-03-08 09:42:34,9,Success,1681271,,,Incremental
+REF-00937,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-07 11:33:34,2026-03-07 11:42:34,9,Success,1720488,,,Full
+REF-00938,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-06 12:33:34,2026-03-06 13:01:34,28,Success,1979064,,,Full
+REF-00939,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-05 12:33:34,2026-03-05 13:01:34,28,Success,1381522,,,Incremental
+REF-00940,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-04 14:33:34,2026-03-04 14:53:34,20,Success,1373033,,,Incremental
+REF-00941,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,OnDemand,Schedule,2026-03-03 13:33:34,2026-03-03 14:14:34,41,Success,1057686,,,Incremental
+REF-00942,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-03-02 11:33:34,2026-03-02 11:42:34,9,Success,1268012,,,Incremental
+REF-00943,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Manual,Schedule,2026-03-01 12:33:34,2026-03-01 13:16:34,43,Success,1607434,,,Incremental
+REF-00944,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-28 11:33:34,2026-02-28 12:14:34,41,Success,1922819,,,Incremental
+REF-00945,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-27 12:33:34,2026-02-27 13:21:34,48,Success,37874,,,Incremental
+REF-00946,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-26 12:33:34,2026-02-26 13:03:34,30,Success,1598059,,,Full
+REF-00947,DS-019,Shift Scheduling,WS-001,Michigan Auto - Production,Scheduled,Schedule,2026-02-25 11:33:34,2026-02-25 11:45:34,12,Success,798000,,,Incremental
+REF-00948,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Manual,Schedule,2026-05-25 16:33:34,2026-05-25 17:04:34,31,Success,1560331,,,Incremental
+REF-00949,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-18 18:33:34,2026-05-18 19:02:34,29,Success,1369051,,,Full
+REF-00950,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,User,2026-05-11 18:33:34,2026-05-11 18:49:34,16,Success,1141018,,,Incremental
+REF-00951,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-05-04 19:33:34,2026-05-04 20:00:34,27,Success,1103605,,,Full
+REF-00952,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,OnDemand,User,2026-04-27 18:33:34,2026-04-27 18:39:34,6,Success,1340363,,,Full
+REF-00953,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-20 19:33:34,2026-04-20 20:26:34,53,Success,1964152,,,Incremental
+REF-00954,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-13 18:33:34,2026-04-13 19:22:34,49,Success,424263,,,Full
+REF-00955,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-04-06 18:33:34,2026-04-06 19:16:34,43,Success,432368,,,Full
+REF-00956,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-30 18:33:34,2026-03-30 18:46:34,13,Success,997157,,,Incremental
+REF-00957,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-23 19:33:34,2026-03-23 20:26:34,53,Success,1020828,,,Incremental
+REF-00958,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-16 19:33:34,2026-03-16 19:45:34,12,Success,1169414,,,Incremental
+REF-00959,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-09 18:33:34,2026-03-09 19:11:34,38,Success,1280927,,,Incremental
+REF-00960,DS-020,Customer Quality,WS-013,Michigan Auto - Supply Chain,Scheduled,Schedule,2026-03-02 19:33:34,2026-03-02 19:48:34,15,Success,18767,,,Incremental

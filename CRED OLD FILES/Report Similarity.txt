@@ -1,0 +1,105 @@
+# %%
+import pandas as pd
+import numpy as np
+from scipy.spatial.distance import squareform, pdist
+
+# %%
+df = pd.read_excel("C:/Users/v-yaagarwal/Downloads/KMeans_Data/Test Data.xlsx")
+
+# %%
+df.head()
+
+# %%
+df.describe()
+
+# %%
+df.info()
+
+# %%
+df['Report Name'].nunique()
+
+# %%
+df['KPI/Used Columns'].nunique()
+
+# %%
+dff = df[["Report Name","KPI/Used Columns"]].dropna().reset_index()
+
+# %%
+dff.drop(["index"],axis=1,inplace=True)
+
+# %%
+dff.head()
+
+# %%
+print(dff['Report Name'].nunique())
+print(dff['KPI/Used Columns'].nunique())
+
+# %%
+dff["KPI/Used Columns"]
+
+# %%
+matrix = pd.get_dummies(dff['KPI/Used Columns'])
+
+# %%
+matrix.head()
+
+# %%
+dff = pd.concat([dff, matrix], axis=1)
+
+# %%
+grp = dff.groupby('Report Name').sum()
+
+# %%
+dist = pdist(grp, metric="jaccard")
+s_dist = squareform(dist)
+# Fill diagonals with nulls
+np.fill_diagonal(s_dist, np.nan)
+
+# %%
+sim = np.subtract(1, s_dist)
+
+# %%
+sim_df = pd.DataFrame(sim, columns=grp.index, index=grp.index)
+
+# %%
+sim_df.head()
+
+# %%
+a=[]
+for i,r in sim_df.iterrows():
+    for j in r.index:
+        if r[j] > 0.85:
+            # print('1st Report:',i)
+            # print('2nd Report:',j)
+            # print('Matching %:',round(r[j]*100,3),'\n')
+            a.append([i,j,r[j]])
+
+# %%
+len(a)
+
+# %%
+a=[]
+print('Report Name','##','No. of matching reports','##','Sum of %','##','Avg Matching %')
+for i,r in sim_df.iterrows():
+    # print('Report:',i)
+    s=0
+    x=0
+    for j in r.index:
+        if r[j]>0.85:
+            x+=1
+            s+=r[j]
+    if x!=0:
+        b=[i,x,s,(s*100)/x]
+        a.append(b)
+        # print(b)
+
+# %%
+print('Report Name','##','No. of matching reports','##','Sum of %','##','Avg Matching %')
+for i in a:
+    if i[1]>25:
+        print(i)
+
+# %%
+
+
+

@@ -1,2 +1,11 @@
+# Python
 __pycache__/
-CRED_Output_*.xlsx
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel lock files (created when a workbook is open)
+~$*.xlsx

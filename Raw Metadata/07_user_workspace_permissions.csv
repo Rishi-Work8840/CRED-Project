@@ -1,0 +1,62 @@
+permission_id,user_id,user_email,workspace_id,workspace_name,permission_level,granted_by,granted_date,is_active
+PERM-0001,USR-001,john.smith@michiganauto.com,WS-013,Michigan Auto - Supply Chain,Contributor,finance@michiganauto.com,2025-02-12,True
+PERM-0002,USR-001,john.smith@michiganauto.com,WS-008,Michigan Auto - Dev,Contributor,finance@michiganauto.com,2025-12-03,True
+PERM-0003,USR-001,john.smith@michiganauto.com,WS-009,Michigan Auto - UAT,Viewer,exec.admin@michiganauto.com,2025-03-10,True
+PERM-0004,USR-002,ops.lead@michiganauto.com,WS-009,Michigan Auto - UAT,Viewer,exec.admin@michiganauto.com,2025-07-31,True
+PERM-0005,USR-002,ops.lead@michiganauto.com,WS-014,Michigan Auto - HR Analytics,Viewer,maint.mgr@michiganauto.com,2025-11-26,True
+PERM-0006,USR-002,ops.lead@michiganauto.com,WS-015,Michigan Auto - Archive,Viewer,finance@michiganauto.com,2025-12-08,True
+PERM-0007,USR-003,maint.mgr@michiganauto.com,WS-010,My Workspace - J.Smith,Contributor,exec.admin@michiganauto.com,2025-04-09,True
+PERM-0008,USR-004,ds.lead@michiganauto.com,WS-012,My Workspace - Analyst2,Viewer,ops.lead@michiganauto.com,2025-08-19,True
+PERM-0009,USR-004,ds.lead@michiganauto.com,WS-001,Michigan Auto - Production,Viewer,ds.lead@michiganauto.com,2026-02-28,True
+PERM-0010,USR-005,finance@michiganauto.com,WS-010,My Workspace - J.Smith,Viewer,john.smith@michiganauto.com,2026-02-07,True
+PERM-0011,USR-006,exec.admin@michiganauto.com,WS-007,Michigan Auto - Executive,Viewer,ds.lead@michiganauto.com,2025-08-31,True
+PERM-0012,USR-006,exec.admin@michiganauto.com,WS-003,Michigan Auto - 8:15 KPIs,Contributor,exec.admin@michiganauto.com,2025-05-08,True
+PERM-0013,USR-006,exec.admin@michiganauto.com,WS-015,Michigan Auto - Archive,Member,ops.lead@michiganauto.com,2025-08-01,True
+PERM-0014,USR-007,analyst1@michiganauto.com,WS-009,Michigan Auto - UAT,Contributor,finance@michiganauto.com,2025-11-20,True
+PERM-0015,USR-007,analyst1@michiganauto.com,WS-007,Michigan Auto - Executive,Viewer,exec.admin@michiganauto.com,2025-05-31,True
+PERM-0016,USR-007,analyst1@michiganauto.com,WS-006,Michigan Auto - Finance,Viewer,finance@michiganauto.com,2025-09-10,True
+PERM-0017,USR-007,analyst1@michiganauto.com,WS-003,Michigan Auto - 8:15 KPIs,Member,maint.mgr@michiganauto.com,2026-01-20,True
+PERM-0018,USR-008,analyst2@michiganauto.com,WS-012,My Workspace - Analyst2,Viewer,maint.mgr@michiganauto.com,2025-09-12,True
+PERM-0019,USR-008,analyst2@michiganauto.com,WS-004,Michigan Auto - Maintenance,Viewer,exec.admin@michiganauto.com,2025-12-26,True
+PERM-0020,USR-008,analyst2@michiganauto.com,WS-015,Michigan Auto - Archive,Viewer,finance@michiganauto.com,2025-11-02,True
+PERM-0021,USR-009,hse.mgr@michiganauto.com,WS-013,Michigan Auto - Supply Chain,Member,maint.mgr@michiganauto.com,2025-01-10,True
+PERM-0022,USR-009,hse.mgr@michiganauto.com,WS-015,Michigan Auto - Archive,Contributor,ds.lead@michiganauto.com,2025-06-14,True
+PERM-0023,USR-009,hse.mgr@michiganauto.com,WS-003,Michigan Auto - 8:15 KPIs,Contributor,ops.lead@michiganauto.com,2025-03-17,True
+PERM-0024,USR-010,kwhite@michiganauto.com,WS-003,Michigan Auto - 8:15 KPIs,Viewer,ops.lead@michiganauto.com,2026-01-11,True
+PERM-0025,USR-010,kwhite@michiganauto.com,WS-002,Michigan Auto - FAR Reporting,Viewer,ops.lead@michiganauto.com,2025-06-23,True
+PERM-0026,USR-010,kwhite@michiganauto.com,WS-010,My Workspace - J.Smith,Member,maint.mgr@michiganauto.com,2025-05-13,True
+PERM-0027,USR-011,jbrown@michiganauto.com,WS-001,Michigan Auto - Production,Viewer,ops.lead@michiganauto.com,2025-10-18,True
+PERM-0028,USR-011,jbrown@michiganauto.com,WS-009,Michigan Auto - UAT,Viewer,ds.lead@michiganauto.com,2025-09-12,True
+PERM-0029,USR-012,plee@michiganauto.com,WS-006,Michigan Auto - Finance,Admin,john.smith@michiganauto.com,2025-06-15,True
+PERM-0030,USR-012,plee@michiganauto.com,WS-005,Michigan Auto - Data Science,Viewer,exec.admin@michiganauto.com,2025-03-06,True
+PERM-0031,USR-012,plee@michiganauto.com,WS-011,My Workspace - Analyst1,Viewer,ds.lead@michiganauto.com,2025-02-18,True
+PERM-0032,USR-013,dev.team@michiganauto.com,WS-014,Michigan Auto - HR Analytics,Contributor,ds.lead@michiganauto.com,2026-02-08,True
+PERM-0033,USR-014,rclark@michiganauto.com,WS-015,Michigan Auto - Archive,Member,finance@michiganauto.com,2026-03-22,True
+PERM-0034,USR-014,rclark@michiganauto.com,WS-001,Michigan Auto - Production,Contributor,exec.admin@michiganauto.com,2025-08-10,True
+PERM-0035,USR-014,rclark@michiganauto.com,WS-014,Michigan Auto - HR Analytics,Viewer,ops.lead@michiganauto.com,2025-03-06,True
+PERM-0036,USR-015,nadams@michiganauto.com,WS-004,Michigan Auto - Maintenance,Contributor,exec.admin@michiganauto.com,2025-09-22,True
+PERM-0037,USR-015,nadams@michiganauto.com,WS-013,Michigan Auto - Supply Chain,Viewer,john.smith@michiganauto.com,2025-05-03,True
+PERM-0038,USR-015,nadams@michiganauto.com,WS-002,Michigan Auto - FAR Reporting,Member,exec.admin@michiganauto.com,2025-04-23,True
+PERM-0039,USR-016,pmartinez@michiganauto.com,WS-014,Michigan Auto - HR Analytics,Admin,exec.admin@michiganauto.com,2026-03-28,True
+PERM-0040,USR-016,pmartinez@michiganauto.com,WS-007,Michigan Auto - Executive,Contributor,ops.lead@michiganauto.com,2026-05-12,True
+PERM-0041,USR-016,pmartinez@michiganauto.com,WS-009,Michigan Auto - UAT,Member,maint.mgr@michiganauto.com,2025-01-12,True
+PERM-0042,USR-016,pmartinez@michiganauto.com,WS-006,Michigan Auto - Finance,Viewer,finance@michiganauto.com,2026-05-10,True
+PERM-0043,USR-017,swilson@michiganauto.com,WS-012,My Workspace - Analyst2,Viewer,ds.lead@michiganauto.com,2025-12-09,True
+PERM-0044,USR-017,swilson@michiganauto.com,WS-004,Michigan Auto - Maintenance,Viewer,exec.admin@michiganauto.com,2025-04-16,True
+PERM-0045,USR-017,swilson@michiganauto.com,WS-001,Michigan Auto - Production,Member,maint.mgr@michiganauto.com,2025-11-07,True
+PERM-0046,USR-018,mthompson@michiganauto.com,WS-003,Michigan Auto - 8:15 KPIs,Member,exec.admin@michiganauto.com,2025-07-09,True
+PERM-0047,USR-018,mthompson@michiganauto.com,WS-008,Michigan Auto - Dev,Viewer,ds.lead@michiganauto.com,2025-04-22,True
+PERM-0048,USR-019,lgarcia@michiganauto.com,WS-013,Michigan Auto - Supply Chain,Viewer,finance@michiganauto.com,2025-02-22,True
+PERM-0049,USR-019,lgarcia@michiganauto.com,WS-004,Michigan Auto - Maintenance,Contributor,exec.admin@michiganauto.com,2025-11-11,True
+PERM-0050,USR-020,smoore@michiganauto.com,WS-001,Michigan Auto - Production,Viewer,finance@michiganauto.com,2026-01-31,True
+PERM-0051,USR-021,ctaylor@michiganauto.com,WS-003,Michigan Auto - 8:15 KPIs,Viewer,ds.lead@michiganauto.com,2026-03-16,True
+PERM-0052,USR-021,ctaylor@michiganauto.com,WS-006,Michigan Auto - Finance,Viewer,ds.lead@michiganauto.com,2026-03-30,True
+PERM-0053,USR-022,danderson@michiganauto.com,WS-008,Michigan Auto - Dev,Member,ds.lead@michiganauto.com,2025-09-23,True
+PERM-0054,USR-023,bjackson@michiganauto.com,WS-011,My Workspace - Analyst1,Admin,maint.mgr@michiganauto.com,2025-03-23,True
+PERM-0055,USR-023,bjackson@michiganauto.com,WS-013,Michigan Auto - Supply Chain,Member,john.smith@michiganauto.com,2026-04-22,True
+PERM-0056,USR-023,bjackson@michiganauto.com,WS-005,Michigan Auto - Data Science,Viewer,finance@michiganauto.com,2026-04-15,True
+PERM-0057,USR-023,bjackson@michiganauto.com,WS-012,My Workspace - Analyst2,Contributor,maint.mgr@michiganauto.com,2025-10-18,True
+PERM-0058,USR-024,gthomas@michiganauto.com,WS-013,Michigan Auto - Supply Chain,Viewer,exec.admin@michiganauto.com,2025-10-12,True
+PERM-0059,USR-024,gthomas@michiganauto.com,WS-011,My Workspace - Analyst1,Contributor,ds.lead@michiganauto.com,2025-11-04,True
+PERM-0060,USR-025,drobinson@michiganauto.com,WS-011,My Workspace - Analyst1,Contributor,ops.lead@michiganauto.com,2025-08-13,True
+PERM-0061,USR-025,drobinson@michiganauto.com,WS-014,Michigan Auto - HR Analytics,Member,ops.lead@michiganauto.com,2025-03-14,True

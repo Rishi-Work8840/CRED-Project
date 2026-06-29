@@ -1,0 +1,170 @@
+,value,Domain,Report 1,Report 2,Cluster,new
+0,1.0,Customer Support \, 01 Dayforce Call Driver Analysis, 01 Dayforce Call Driver Analysis,0,1
+1,1.0,Customer Support \, 02 Call Drivers by Module, 02 Call Drivers by Module,1,1
+2,1.0,Customer Support \, 04 Call Drivers by Client Group, 04 Call Drivers by Client Group,3,1
+3,1.0,Customer Support \, 06 Client Tenure Ticket Metrics, 06 Client Tenure Ticket Metrics,5,1
+4,1.0,Customer Support \, 07 Support Team Metrics, 07 Support Team Metrics,6,1
+5,1.0,Customer Support \, 08 Appendix, 08 Appendix,7,1
+6,1.0,Human Resources \, 2019 Pass Chart, 2019 Pass Chart,8,1
+7,1.0,Human Resources \, 2022 Annual Analysis Tool NR Oct 19, 2022 Annual Analysis Tool NR Oct 19,9,1
+8,1.0,Product \, 2022 Dayforce Product Roadmap Delivery, 2022 Dayforce Product Roadmap Delivery,10,1
+9,1.0,Customer Support \, 2022 KB Topics Report, 2022 KB Topics Report,11,1
+10,1.0,Customer Support \, 2022 Other Initiatives, 2022 Other Initiatives,12,1
+11,1.0,Customer Support \, 2022 WFM Initiative Cases, 2022 WFM Initiative Cases,13,1
+12,1.0,Human Resources \, 2022EngagementCommentsAnalysis, 2022EngagementCommentsAnalysis,14,1
+13,1.0,Product \, ANZ Release Criteria Summary, ANZ Release Criteria Summary,15,1
+14,1.0,Product \, Accessibility Burndown Chart, Accessibility Burndown Chart,16,1
+15,1.0,Product \, Activate Install Counts, Activate Install Counts,17,1
+16,1.0,Product \, Aha Analysis, Aha Analysis,18,1
+17,1.0,Product \, Aha Features by Initiatve Type, Aha Features by Initiatve Type,19,1
+18,1.0,Product \, ArticleThemesNLP_PBI, ArticleThemesNLP_PBI,20,1
+19,1.0,Product \, Automated Acceptance Test Results, Automated Acceptance Test Results,21,1
+20,1.0,Product \, Azure Migration Tracker 2022_v2, Azure Migration Tracker 2022_v2,22,1
+21,1.0,Product \, Azure Spend Summary, Azure Spend Summary,23,1
+22,1.0,Product \, BenefitsADOItemsForTeamReview, BenefitsADOItemsForTeamReview,26,1
+23,1.0,Product \, Bug Analysis, Bug Analysis,27,1
+24,1.0,Product \, Bugs Per Release, Bugs Per Release,28,1
+25,1.0,Customer Support \, CARL  Ticket Trends, CARL  Ticket Trends,29,1
+26,1.0,Product \, CM Salesforce Case Reports, CM Salesforce Case Reports,30,1
+27,1.0,Human Resources \, COO Data 2022, COO Data 2022,31,1
+28,1.0,Customer Support \, CVT Rules Report, CVT Rules Report,32,1
+29,1.0,Human Resources \, CWW_Dashboard, CWW_Dashboard,33,1
+30,1.0,Customer Support \, CXI Ticket Report - New, CXI Ticket Report - New,34,1
+31,1.0,Customer Support \, Call Driver Data Corp Strategy, Call Driver Data Corp Strategy,35,1
+32,1.0,Customer Support \, Call Drivers KPI, Call Drivers KPI,36,1
+33,1.0,Product \, Capitalization - Finance Actual vs Target, Capitalization - Finance Actual vs Target,37,1
+34,1.0,Product \, Client Bugs With Development, Client Bugs With Development,38,1
+35,1.0,Product \, Client Defect Cycle Time, Client Defect Cycle Time,39,1
+36,1.0,Product \, Cloud Hosting Cases, Cloud Hosting Cases,40,1
+37,1.0,Product \, Cloud Hosting Upgrades, Cloud Hosting Upgrades,41,1
+38,1.0,Human Resources \, Coronavirus in US, Coronavirus in US,42,1
+39,1.0,Product \, DF Hub Adoption, DF Hub Adoption,43,1
+40,1.0,Customer Support \, Dashboard, Dashboard,44,1
+41,1.0,Product \, Data Management Detail, Data Management Detail,45,1
+42,1.0,Product \, Dayforce Client Ideas, Dayforce Client Ideas,46,1
+43,1.0,Customer Support \, Dayforce Errors, Dayforce Errors,47,1
+44,1.0,Product \, Dayforce Release Planning & Review, Dayforce Release Planning & Review,48,1
+45,1.0,Product \, Dayforce Release Review, Dayforce Release Review,49,1
+46,1.0,Product \, Dayforce Staff Ideas, Dayforce Staff Ideas,50,1
+47,1.0,Wallet \, Dayforce Wallet - AuthTrans, Dayforce Wallet - AuthTrans,51,1
+48,1.0,Wallet \, Dayforce Wallet - AuthTrans  - AD HOC, Dayforce Wallet - AuthTrans  - AD HOC,52,1
+49,1.0,Wallet \, Dayforce Wallet - Central Transactions, Dayforce Wallet - Central Transactions,53,1
+50,1.0,Wallet \, Dayforce Wallet - New Requests, Dayforce Wallet - New Requests,54,1
+51,1.0,Wallet \, Dayforce Wallet - Risk Management, Dayforce Wallet - Risk Management,55,1
+52,1.0,Wallet \, Dayforce Wallet - Trust, Dayforce Wallet - Trust,56,1
+53,1.0,Wallet \, Dayforce Wallet - Trust - Total Activities, Dayforce Wallet - Trust - Total Activities,57,1
+54,1.0,Wallet \, Dayforce Wallet Bank Audit, Dayforce Wallet Bank Audit,58,1
+55,1.0,Wallet \, Dayforce Wallet CSM Report, Dayforce Wallet CSM Report,59,1
+56,1.0,Wallet \, Dayforce Wallet Phase Potential Activity, Dayforce Wallet Phase Potential Activity,60,1
+57,1.0,Wallet \, Dayforce Wallet Phase Potential Activity DEV, Dayforce Wallet Phase Potential Activity DEV,61,1
+58,1.0,Wallet \, Dayforce Wallet Product Dataset, Dayforce Wallet Product Dataset,62,1
+59,1.0,Wallet \, Dayforce Wallet Shared Dataset, Dayforce Wallet Shared Dataset,63,1
+60,1.0,Wallet \, Dayforce Wallet v2, Dayforce Wallet v2,64,1
+61,1.0,Wallet \, DayforceWallet_DirectDeposit_WoW, DayforceWallet_DirectDeposit_WoW,65,1
+62,1.0,Human Resources \, Demo for Intro PBI Webinar, Demo for Intro PBI Webinar,66,1
+63,1.0,Product \, Dependency Reporting, Dependency Reporting,67,1
+64,1.0,Customer Support \, Enterprise Call Driver Report, Enterprise Call Driver Report,69,1
+65,1.0,Product \, Existing Customers Moving to a New Release, Existing Customers Moving to a New Release,70,1
+66,1.0,Product \, Export Listing, Export Listing,71,1
+67,1.0,Customer Support \, FTS test - WIP, FTS test - WIP,72,1
+68,1.0,Product \, Feature Reporting, Feature Reporting,73,1
+69,1.0,Product \, Feature Roadmap Burnup Chart, Feature Roadmap Burnup Chart,74,1
+70,1.0,Product \, Feature Status Tracking, Feature Status Tracking,75,1
+71,1.0,Product \, Feature and PBI - Lead and Cycle Time, Feature and PBI - Lead and Cycle Time,76,1
+72,1.0,Human Resources \, HR Active Employees by Senior Manager_wCountry, HR Active Employees by Senior Manager_wCountry,77,1
+73,1.0,Human Resources \, HR Anniversary, HR Anniversary,78,1
+74,1.0,Human Resources \, IndirectvsDirectReportsMapped, IndirectvsDirectReportsMapped,79,1
+75,1.0,Human Resources \, InternalMobility_updated, InternalMobility_updated,81,1
+76,1.0,Product \, Jira Dependency Reporting, Jira Dependency Reporting,82,1
+77,1.0,Customer Support \, Legal Entity Lookup Report, Legal Entity Lookup Report,83,1
+78,1.0,Product \, MFA Adoption and Usage, MFA Adoption and Usage,84,1
+79,1.0,Customer Support \, Managed Services Onboarding Dashboard 2.0, Managed Services Onboarding Dashboard 2.0,86,1
+80,1.0,Customer Support \, Managed Services Operational Excellence Dashboard, Managed Services Operational Excellence Dashboard,87,1
+81,1.0,Human Resources \, Microsoft Forms Pro Customer Satisfaction, Microsoft Forms Pro Customer Satisfaction,88,1
+82,1.0,Human Resources \, NewDirectorPlus, NewDirectorPlus,89,1
+83,1.0,Product \," Nothing To See Here, Move Along"," Nothing To See Here, Move Along",90,1
+84,1.0,Customer Support \, Office Hours Report, Office Hours Report,91,1
+85,1.0,Product \, Open Bug Analysis, Open Bug Analysis,92,1
+86,1.0,Product \, P&T 2022 Goals, P&T 2022 Goals,93,1
+87,1.0,Product \," P&T CM Requests (DB Restore, Deployment, Site Creation-Removal, Branch Build, SFTP Setup)"," P&T CM Requests (DB Restore, Deployment, Site Creation-Removal, Branch Build, SFTP Setup)",94,1
+88,1.0,Product \, P&T Headcount 2022, P&T Headcount 2022,95,1
+89,1.0,Product \, P&T Headcount 2022 - Interns, P&T Headcount 2022 - Interns,96,1
+90,1.0,Product \, PeopleIntelligenceUsage, PeopleIntelligenceUsage,98,1
+91,1.0,Product \, PowerBI - JIRA Base Template, PowerBI - JIRA Base Template,99,1
+92,1.0,Product \, PowerBIReport - Public Sector Acc Bugs, PowerBIReport - Public Sector Acc Bugs,100,1
+93,1.0,Customer Support \, Process Analytics for Dynamics 365, Process Analytics for Dynamics 365,101,1
+94,1.0,Product \, Product Briefs, Product Briefs,102,1
+95,1.0,Product \, Product Usage Search, Product Usage Search,103,1
+96,1.0,Product \, Quality Dashboard, Quality Dashboard,104,1
+97,1.0,Customer Support \, RCA Issue Log Dashboard, RCA Issue Log Dashboard,105,1
+98,1.0,Product \, Release Impact Analysis, Release Impact Analysis,106,1
+99,1.0,Product \, Release Outcome Analysis, Release Outcome Analysis,107,1
+100,1.0,Product \, Resilience Reports, Resilience Reports,108,1
+101,1.0,Human Resources \, SOC_Analysis, SOC_Analysis,109,1
+102,1.0,Product \, Search Analytics Dashboard Ver 1.1 no weekend trend, Search Analytics Dashboard Ver 1.1 no weekend trend,110,1
+103,1.0,Customer Support \, Standard & Compliance Reports, Standard & Compliance Reports,111,1
+104,1.0,Customer Support \, Support Data Reports, Support Data Reports,112,1
+105,1.0,Human Resources \, TA Metrics_updatedmapping, TA Metrics_updatedmapping,113,1
+106,1.0,Customer Support \, TAM Ticket Report V2, TAM Ticket Report V2,115,1
+107,1.0,Product \, Team Metrics, Team Metrics,117,1
+108,1.0,Product \, Team Metrics - Sample, Team Metrics - Sample,118,1
+109,1.0,Product \, Test Cases - Core Regression, Test Cases - Core Regression,120,1
+110,1.0,Product \, Testing JIRA History, Testing JIRA History,121,1
+111,1.0,Product \, UAT Metrics, UAT Metrics,122,1
+112,1.0,Product \, Upgrade Project Dashboard, Upgrade Project Dashboard,123,1
+113,1.0,Wallet \, Wallet Direct Deposit Audit, Wallet Direct Deposit Audit,124,1
+114,1.0,Wallet \, Wallet Direct Marketing List, Wallet Direct Marketing List,125,1
+115,1.0,Wallet \, Wallet_DevReports, Wallet_DevReports,126,1
+116,1.0,Product \, Web Services Usage, Web Services Usage,127,1
+117,1.0,Customer Support \, XCL, XCL,128,1
+118,1.0,Product \, call driver text analysis, call driver text analysis,129,1
+119,1.0,Customer Support \, sla_overview_V1, sla_overview_V1,130,1
+120,0.7599324534505176,Customer Support \, 01 Dayforce Call Driver Analysis, 04 Call Drivers by Client Group,3,0
+121,0.9560892129252898,Customer Support \, 02 Call Drivers by Module, 04 Call Drivers by Client Group,3,0
+122,1.0,Customer Support \, 03 Call Drivers by Module First Year Clients, 02 Call Drivers by Module,1,0
+123,0.9560892129252898,Customer Support \, 04 Call Drivers by Client Group, 02 Call Drivers by Module,1,0
+124,0.9565579045742018,Customer Support \, 05 Call Drivers by Specialty Team, 04 Call Drivers by Client Group,3,0
+125,0.7949778820635358,Customer Support \, 2022 Other Initiatives, Enterprise Call Driver Report,69,0
+126,1.0,Product \, ANZ Release Criteria Summary, Team Metrics,117,0
+127,1.0,Product \, Aha Analysis, Dayforce Client Ideas,46,0
+128,0.9858148842026543,Product \, Aha Features by Initiatve Type, Dependency Reporting,67,0
+129,1.0,Product \, Azure Migration Tracker 2022_v2, Cloud Hosting Upgrades,41,0
+130,1.0,Product \, Azure Spend Summary - P&T, Azure Spend Summary,23,0
+131,1.0,Product \, AzureCostManagementApp, Azure Spend Summary,23,0
+132,1.0,Product \, CM Salesforce Case Reports, Cloud Hosting Cases,40,0
+133,0.84602870323426,Customer Support \, CXI Ticket Report - New, TAM Ticket Report V2,115,0
+134,1.0,Product \, Cloud Hosting Cases, CM Salesforce Case Reports,30,0
+135,1.0,Product \, Cloud Hosting Upgrades, Azure Migration Tracker 2022_v2,22,0
+136,1.0,Product \, Dayforce Client Ideas, Aha Analysis,18,0
+137,1.0,Product \, Dayforce Release Planning & Review, Dayforce Release Review,49,0
+138,1.0,Product \, Dayforce Release Review, Dayforce Release Planning & Review,48,0
+139,0.7668115805072325,Product \, Dayforce Staff Ideas, Aha Analysis,18,0
+140,0.9178400913764042,Wallet \, Dayforce Wallet - Risk Management, Dayforce Wallet Product Dataset,62,0
+141,1.0,Wallet \, Dayforce Wallet CSM Report, Dayforce Wallet Phase Potential Activity,60,0
+142,1.0,Wallet \, Dayforce Wallet Phase Potential Activity, Dayforce Wallet CSM Report,59,0
+143,1.0,Wallet \, Dayforce Wallet Phase Potential Activity DEV, Dayforce Wallet CSM Report,59,0
+144,0.9178400913764042,Wallet \, Dayforce Wallet Product Dataset, Dayforce Wallet - Risk Management,55,0
+145,1.0,Wallet \, Dayforce Wallet Shared Dataset, Dayforce Wallet CSM Report,59,0
+146,1.0,Wallet \, Dayforce Wallet v2, Dayforce Wallet CSM Report,59,0
+147,1.0,Wallet \, DayforceWallet_DirectDeposit_WoW, Dayforce Wallet CSM Report,59,0
+148,0.9858148842026543,Product \, Dependency Reporting, Aha Features by Initiatve Type,19,0
+149,0.9357754408380653,Human Resources \, EmployeeExperienceComments_10182022, 2022EngagementCommentsAnalysis,14,0
+150,1.0,Customer Support \, Enterprise Call Driver Report, XCL,128,0
+151,1.0,Product \, Existing Customers Moving to a New Release, Upgrade Project Dashboard,123,0
+152,0.7999434618810245,Wallet \, Instant Issue Inventory, Dayforce Wallet - New Requests,54,0
+153,1.0,Product \, Jira Dependency Reporting, Dayforce Release Planning & Review,48,0
+154,0.9999999999999998,Customer Support \, Legal Entity Lookup Report, Support Data Reports,112,0
+155,1.0,Customer Support \, Major Incident Management Tracker, FTS test - WIP,72,0
+156,0.8396893026590252,Product \, P&T Leadership Dashboard - Exec Summary, P&T Headcount 2022 - Interns,96,0
+157,1.0,Product \, PowerBI - JIRA Base Template, Dayforce Release Planning & Review,48,0
+158,1.0,Product \, Product Briefs, Dayforce Release Planning & Review,48,0
+159,0.9999999999999998,Customer Support \, Support Data Reports, Legal Entity Lookup Report,83,0
+160,1.0,Customer Support \, TAM TFS Report_v2, Enterprise Call Driver Report,69,0
+161,0.84602870323426,Customer Support \, TAM Ticket Report V2, CXI Ticket Report - New,34,0
+162,0.8416254115301731,Customer Support \, Tax Fallout Report, CXI Ticket Report - New,34,0
+163,1.0,Product \, Team Metrics, ANZ Release Criteria Summary,15,0
+164,0.981263276437594,Product \, Team Metrics - Sample, ANZ Release Criteria Summary,15,0
+165,1.0,Product \, Team Metrics-testing cred, ANZ Release Criteria Summary,15,0
+166,1.0,Product \, Upgrade Project Dashboard, Existing Customers Moving to a New Release,70,0
+167,0.8978787166012641,Wallet \, Wallet_DevReports, Dayforce Wallet CSM Report,59,0
+168,1.0,Customer Support \, XCL, Enterprise Call Driver Report,69,0
